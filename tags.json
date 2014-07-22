@@ -1,0 +1,19 @@
+[
+  {
+    "key_1_key": "location_id",
+    "key_1_s": "locations",
+    "_v_1": "vFD4jn97ez4Em7Tr4",
+    "key_2_key": "img_uuid",
+    "key_2_s": "img",
+    "_v_2": "0131D4F2-5F28-4F2F-946D-CB790C575DD9.jpg"
+  },
+
+  {
+    "key_key": "location_ty_n",
+    "key_s": "location_ty",
+    "_v": "Restaruant",
+    "key_2_key": "img_uuid",
+    "key_2_s": "img",
+    "_v_2": "0131D4F2-5F28-4F2F-946D-CB790C575DD9.jpg"
+  }
+]

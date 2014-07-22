@@ -1,0 +1,471 @@
+[
+
+  {
+    "_s_n_for": "_s",
+    "_s_n": "_s",
+    "json": [
+      {"main": "web-str-json/_s.json"}
+    ],
+    "_s_keys": [
+      "_s_n_for",
+      "_s_n",
+      "json",
+      "_s_keys",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "keys",
+    "_s_n": "_s",
+    "json": [
+      {"main": "web-str-json/keys.json"}
+    ],
+    "_s_keys": [
+      "key_n",
+      "key_ty",
+      "key_s",
+      "key_key",
+      "key_dis",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "paths",
+    "_s_n": "_s",
+    "json": [
+      {"main": "web-str-json/paths.json"}
+    ],
+    "_s_keys": [
+      "path_n",
+      "path_tem",
+      "path_gr",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_spa",
+    "_s_n": "_s",
+    "json": [
+      {"main": "web-str-json/_spa.json"}
+    ],
+    "_s_keys": [
+      "_spa",
+      "_spa_tem",
+      "_spa_gr",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "classes",
+    "_s_n": "_s",
+    "json": [
+      {"main": "_s/classes.json"}
+    ],
+    "_s_keys": [
+      "class_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "input_forms",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/input_forms.json"}
+    ],
+    "_s_keys": [
+      "input_form_n",
+      "href",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "continents",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/continents.json"}
+    ],
+    "_s_keys": [
+      "continent_n",
+      "continent_c",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "countries",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/countries.json"}
+    ],
+    "_s_keys": [
+      "country_n",
+      "demonym",
+      "_loc",
+      "population",
+      "calling_c",
+      "cca3",
+      "cca2",
+      "_nt_country_n",
+      "capital_n",
+      "relevance",
+      "continent_n",
+      "sub_region",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "cities",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/cities.json"}
+    ],
+    "_s_keys": [
+      "city_n",
+      "country_n",
+      "_loc",
+      "population",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "currencies",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/currencies.json"}
+    ],
+    "_s_keys": [
+      "currency_c",
+      "usd_exchange_rate",
+      "symbol",
+      "_nt_symbol",
+      "currency_n",
+      "currency_n_pl",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "languages",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/languages.json"}
+    ],
+    "_s_keys": [
+      "language_n",
+      "language_c",
+      "_nt_language_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_alt_spellings",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/_alt_spellings.json"}
+    ],
+    "_s_keys": [
+      "_s_alt_spellings",
+      "key_alt_spellings",
+      "_st",
+      "_alt_spelling_st",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+
+
+  {
+    "_s_n_for": "borders_of_country",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/borders_of_country.json"}
+    ],
+    "_s_keys": [
+      "country_n",
+      "border_country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "country_currency",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/country_currency.json"}
+    ],
+    "_s_keys": [
+      "country_n",
+      "currency_c",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "country_language",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/country_language.json"}
+    ],
+    "_s_keys": [
+      "country_n",
+      "language_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+
+  {
+    "_s_n_for": "service_n",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/service_n.json"}
+    ],
+    "_s_keys": [
+      "service_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+   {
+    "_s_n_for": "titles",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/titles.json"}
+    ],
+    "_s_keys": [
+      "title_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "translations",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/translations.json"}
+    ],
+    "_s_keys": [
+      "_s_tr",
+      "key_tr",
+      "_st",
+      "language_n",
+      "_tr_st",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "services",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/services.json"}
+    ],
+    "_s_keys": [
+      "_eid",
+      "service_s_n",
+      "service_n",
+      "dte_of_entry",
+      "currency_c",
+      "cost",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_alt_emails",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/_alt_emails.json"}
+    ],
+    "_s_keys": [
+      "_eid",
+      "email_s_n",
+      "email_ad",
+      "email_ty",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_alt_mobiles",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/_alt_mobiles.json"}
+    ],
+    "_s_keys": [
+      "_eid",
+      "mobile_s_n",
+      "mobile_num",
+      "mobile_ty",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "tags",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/tags.json"}
+    ],
+    "_s_keys": [
+      "key_1_key",
+      "key_1_s",
+      "_v_1",
+      "key_2_key",
+      "key_2_s",
+      "_v_2",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "img",
+    "_s_n": "_s",
+    "json": [
+      {"main": "essential-list-json/img.json"}
+    ],
+    "_s_keys": [
+      "img_uuid",
+      "img_link",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "location_ty",
+    "_s_n": "_s",
+    "json": [
+      {"main": "essential-list-json/location_ty.json"}
+    ],
+    "_s_keys": [
+      "location_ty_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "locations",
+    "_s_n": "_s",
+    "json": [
+      {"main": "essential-list-json/locations.json"}
+    ],
+    "_s_keys": [
+      "location_id",
+      "location_n",
+      "_loc",
+      "location_ty_n",
+      "country_n",
+      "city_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "humans",
+    "_s_n": "_s",
+    "json": [
+      {"core_team": "alpha-entity-json/core_team.json"},
+      {"main": "alpha-entity-json/humans.json"}
+    ],
+    "_s_keys": [
+      "human_id",
+      "title_n",
+      "first_n",
+      "middle_n",
+      "last_n",
+      "_dt_of_birth",
+      "email_ad",
+      "mobile_num",
+      "city_n",
+      "country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "companies",
+    "_s_n": "_s",
+    "json": [
+      {"new_company": "alpha-entity-json/new_company.json"},
+      {"main": "alpha-entity-json/companies.json"}
+    ],
+    "_s_keys": [
+      "company_id",
+      "company_n",
+      "_dt_registered",
+      "email_ad",
+      "mobile_num",
+      "city_n",
+      "country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_tri",
+    "_s_n": "_s",
+    "json": [
+      {"_tri_btn": "web-str-json/_tri_btn.json"},
+      {"_tri_input": "web-str-json/_tri_input.json"},
+      {"_tri_media": "web-str-json/_tri_media.json"},
+      {"_tri_banners": "web-str-json/_tri_banners.json"},
+      {"_tri": "web-str-json/_tri.json"}
+    ],
+    "_s_keys": [
+      "_tri_n",
+      "_tri_gr",
+      "_tri_dis",
+      "sort",
+      "_tri_starting",
+      "form_collection",
+      "on_submit",
+      "on_click",
+      "on_select",
+      "class_n",
+      "_tri_select_key",
+      "_tri_select_key_from",
+      "_tri_select_tri",
+      "_tri_limit_key",
+      "_dt",
+      "_usr"
+    ]
+  }
+
+
+]
