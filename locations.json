@@ -50,7 +50,7 @@
 
   {
     "location_id": "jdi37ZrXd6z9FDziX",
-    "location_n": "Laad Prao",
+    "location_n": "Laad Prao Office",
     "location_ty_n": "Office",
     "country_n": "Thailand",
     "city_n": "Bangkok"
@@ -84,6 +84,22 @@
     "location_id": "KMSLHowfDHZqNtGe7",
     "location_n": "The Roof",
     "location_ty_n": "Restaruant",
+    "country_n": "Thailand",
+    "city_n": "Bangkok"
+  },
+
+  {
+    "location_id": "NpTRr8hX5ueask3mW",
+    "location_n": "Ananta",
+    "location_ty_n": "Restaruant",
+    "country_n": "Thailand",
+    "city_n": "Bangkok"
+  },
+
+  {
+    "location_id": "oWZuGMmvMQttrMT2a",
+    "location_n": "The Scene",
+    "location_ty_n": "Mall",
     "country_n": "Thailand",
     "city_n": "Bangkok"
   }
