@@ -1,7 +1,7 @@
 [
   {
 
-    "location_id": "ELwKPCaJARdyYFkzq",
+    "_id": "ELwKPCaJARdyYFkzq",
     "location_n": "Aetas Residence",
     "location_ty_n": "Condo",
     "country_n": "Thailand",
@@ -9,7 +9,7 @@
   },
 
   {
-    "location_id": "FuvWq2sGea3bxSeQM",
+    "_id": "FuvWq2sGea3bxSeQM",
     "location_n": "Sarawan Condominium",
     "location_ty_n": "Condo",
     "country_n": "Thailand",
@@ -17,7 +17,7 @@
   },
 
   {
-    "location_id": "D6D4RiZQZ7nQFqS27",
+    "_id": "D6D4RiZQZ7nQFqS27",
     "location_n": "Seacon Square",
     "location_ty_n": "Mall",
     "country_n": "Thailand",
@@ -25,7 +25,7 @@
   },
 
   {
-    "location_id": "t6WFM8CCgGiD3TC5L",
+    "_id": "t6WFM8CCgGiD3TC5L",
     "location_n": "The Promenade",
     "location_ty_n": "Mall",
     "country_n": "Thailand",
@@ -33,7 +33,7 @@
   },
 
   {
-    "location_id": "FGADmqtBKdT5Amxyk",
+    "_id": "FGADmqtBKdT5Amxyk",
     "location_n": "Mccann",
     "location_ty_n": "Office",
     "country_n": "Thailand",
@@ -41,7 +41,7 @@
   },
 
   {
-    "location_id": "jucfEpoga6MgdW2vT",
+    "_id": "jucfEpoga6MgdW2vT",
     "location_n": "Right Man",
     "location_ty_n": "Office",
     "country_n": "Thailand",
@@ -49,7 +49,7 @@
   },
 
   {
-    "location_id": "jdi37ZrXd6z9FDziX",
+    "_id": "jdi37ZrXd6z9FDziX",
     "location_n": "Laad Prao Office",
     "location_ty_n": "Office",
     "country_n": "Thailand",
@@ -57,7 +57,7 @@
   },
 
   {
-    "location_id": "EmCxofXsebsXQHJLY",
+    "_id": "EmCxofXsebsXQHJLY",
     "location_n": "Zen",
     "location_ty_n": "Restaruant",
     "country_n": "Thailand",
@@ -65,7 +65,7 @@
   },
 
   {
-    "location_id": "vFD4jn97ez4Em7Tr4",
+    "_id": "vFD4jn97ez4Em7Tr4",
     "location_n": "Air Bar",
     "location_ty_n": "Restaruant",
     "country_n": "Thailand",
@@ -73,7 +73,7 @@
   },
 
   {
-    "location_id": "5QSJaYoCNCarWrc7y",
+    "_id": "5QSJaYoCNCarWrc7y",
     "location_n": "Moon Bar",
     "location_ty_n": "Restaruant",
     "country_n": "Thailand",
@@ -81,7 +81,7 @@
   },
 
   {
-    "location_id": "KMSLHowfDHZqNtGe7",
+    "_id": "KMSLHowfDHZqNtGe7",
     "location_n": "The Roof",
     "location_ty_n": "Restaruant",
     "country_n": "Thailand",
@@ -89,7 +89,7 @@
   },
 
   {
-    "location_id": "NpTRr8hX5ueask3mW",
+    "_id": "NpTRr8hX5ueask3mW",
     "location_n": "Ananta",
     "location_ty_n": "Restaruant",
     "country_n": "Thailand",
@@ -97,7 +97,7 @@
   },
 
   {
-    "location_id": "oWZuGMmvMQttrMT2a",
+    "_id": "oWZuGMmvMQttrMT2a",
     "location_n": "The Scene",
     "location_ty_n": "Mall",
     "country_n": "Thailand",

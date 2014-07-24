@@ -27,6 +27,8 @@
       "key_ty",
       "key_s",
       "key_key",
+      "key_r",
+      "key_arr",
       "key_dis",
       "_dt",
       "_usr"
@@ -116,6 +118,9 @@
       "_loc",
       "population",
       "calling_c",
+      "border_country_n_arr",
+      "currency_c_arr",
+      "language_n_arr",
       "cca3",
       "cca2",
       "_nt_country_n",
@@ -153,6 +158,7 @@
     "_s_keys": [
       "currency_c",
       "usd_exchange_rate",
+      "country_n_arr",
       "symbol",
       "_nt_symbol",
       "currency_n",
@@ -176,67 +182,6 @@
       "_usr"
     ]
   },
-
-  {
-    "_s_n_for": "_alt_spellings",
-    "_s_n": "_s",
-    "json": [
-      {"main": "json/_alt_spellings.json"}
-    ],
-    "_s_keys": [
-      "_s_alt_spellings",
-      "key_alt_spellings",
-      "_st",
-      "_alt_spelling_st",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-
-
-  {
-    "_s_n_for": "borders_of_country",
-    "_s_n": "_s",
-    "json": [
-      {"main": "json/borders_of_country.json"}
-    ],
-    "_s_keys": [
-      "country_n",
-      "border_country_n",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "country_currency",
-    "_s_n": "_s",
-    "json": [
-      {"main": "json/country_currency.json"}
-    ],
-    "_s_keys": [
-      "country_n",
-      "currency_c",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "country_language",
-    "_s_n": "_s",
-    "json": [
-      {"main": "json/country_language.json"}
-    ],
-    "_s_keys": [
-      "country_n",
-      "language_n",
-      "_dt",
-      "_usr"
-    ]
-  },
-
 
   {
     "_s_n_for": "service_n",
@@ -265,31 +210,14 @@
   },
 
   {
-    "_s_n_for": "translations",
-    "_s_n": "_s",
-    "json": [
-      {"main": "json/translations.json"}
-    ],
-    "_s_keys": [
-      "_s_tr",
-      "key_tr",
-      "_st",
-      "language_n",
-      "_tr_st",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
     "_s_n_for": "services",
     "_s_n": "_s",
     "json": [
       {"main": "json/services.json"}
     ],
     "_s_keys": [
-      "_eid",
-      "service_s_n",
+      "human_id",
+      "company_id",
       "service_n",
       "dte_of_entry",
       "currency_c",
@@ -300,50 +228,26 @@
   },
 
   {
-    "_s_n_for": "_alt_emails",
+    "_s_n_for": "emails",
     "_s_n": "_s",
     "json": [
-      {"main": "json/_alt_emails.json"}
+      {"main": "json/emails.json"}
     ],
     "_s_keys": [
-      "_eid",
-      "email_s_n",
-      "email_ad",
-      "email_ty",
+      "_id",
       "_dt",
       "_usr"
     ]
   },
 
   {
-    "_s_n_for": "_alt_mobiles",
+    "_s_n_for": "mobiles",
     "_s_n": "_s",
     "json": [
-      {"main": "json/_alt_mobiles.json"}
+      {"main": "json/mobiles.json"}
     ],
     "_s_keys": [
-      "_eid",
-      "mobile_s_n",
-      "mobile_num",
-      "mobile_ty",
-      "_dt",
-      "_usr"
-    ]
-  },
-
-  {
-    "_s_n_for": "tags",
-    "_s_n": "_s",
-    "json": [
-      {"main": "json/tags.json"}
-    ],
-    "_s_keys": [
-      "key_1_key",
-      "key_1_s",
-      "_v_1",
-      "key_2_key",
-      "key_2_s",
-      "_v_2",
+      "_id",
       "_dt",
       "_usr"
     ]
@@ -389,7 +293,7 @@
       {"main": "essential-list-json/locations.json"}
     ],
     "_s_keys": [
-      "location_id",
+      "_id",
       "location_n",
       "_loc",
       "location_ty_n",
@@ -408,16 +312,20 @@
       {"main": "alpha-entity-json/humans.json"}
     ],
     "_s_keys": [
-      "human_id",
-      "title_n",
-      "first_n",
-      "middle_n",
-      "last_n",
+      "_id",
+      "human_n.title",
+      "human_n.first",
+      "human_n.middle",
+      "human_n.last",
       "_dt_of_birth",
-      "email_ad",
-      "mobile_num",
-      "city_n",
-      "country_n",
+      "email.main_arr",
+      "email.work_arr",
+      "email.personal_arr",
+      "mobile.main_arr",
+      "mobile.work_arr",
+      "mobile.personal_arr",
+      "entity_ad.main.city_n",
+      "entity_ad.main.country_n",
       "_dt",
       "_usr"
     ]
@@ -431,13 +339,48 @@
       {"main": "alpha-entity-json/companies.json"}
     ],
     "_s_keys": [
-      "company_id",
+      "_id",
       "company_n",
       "_dt_registered",
-      "email_ad",
-      "mobile_num",
-      "city_n",
-      "country_n",
+      "email.main_arr",
+      "email.work_arr",
+      "email.personal_arr",
+      "mobile.main_arr",
+      "mobile.work_arr",
+      "mobile.personal_arr",
+      "entity_ad.main.city_n",
+      "entity_ad.main.country_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "translations",
+    "_s_n": "_s",
+    "json": [
+      {"main": "json/translations.json"}
+    ],
+    "_s_keys": [
+      "_s_tr",
+      "key_tr",
+      "_st",
+      "language_n",
+      "_tr_st",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
+    "_s_n_for": "_alt_spellings",
+    "_s_n": "_s",
+    "json": "json/_alt_spellings.json",
+    "_s_keys": [
+      "_s_alt_spellings",
+      "key_alt_spellings",
+      "_st",
+      "_alt_spelling_st",
       "_dt",
       "_usr"
     ]

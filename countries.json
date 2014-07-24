@@ -1,7 +1,13 @@
 [
   {
     "demonym": "Afghan",
-    "_loc": { "type": "Point", "coordinates": [65, 33] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        65,
+        33
+      ]
+    },
     "population": 25500100,
     "calling_c": "93",
     "cca3": "AFG",
@@ -12,11 +18,33 @@
     "capital_n": "Kabul",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Pashto, Pushto",
+      "Uzbek",
+      "Dzongkha"
+    ],
+    "currency_c_arr": [
+      "AFN"
+    ],
+    "border_country_n_arr": [
+      "Iran",
+      "Pakistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Tajikistan",
+      "China"
+    ]
   },
   {
     "demonym": "Ålandish",
-    "_loc": { "type": "Point", "coordinates": [19.9, 60.116667] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        19.9,
+        60.116667
+      ]
+    },
     "population": 28502,
     "calling_c": "358",
     "cca3": "ALA",
@@ -27,11 +55,23 @@
     "capital_n": "Mariehamn",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Swedish"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Albanian",
-    "_loc": { "type": "Point", "coordinates": [20, 41] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        20,
+        41
+      ]
+    },
     "population": 2821977,
     "calling_c": "355",
     "cca3": "ALB",
@@ -42,11 +82,29 @@
     "capital_n": "Tirana",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Albanian"
+    ],
+    "currency_c_arr": [
+      "ALL"
+    ],
+    "border_country_n_arr": [
+      "Montenegro",
+      "Greece",
+      "Macedonia",
+      "Republic of Kosovo"
+    ]
   },
   {
     "demonym": "Algerian",
-    "_loc": { "type": "Point", "coordinates": [3, 28] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        3,
+        28
+      ]
+    },
     "population": 37900000,
     "calling_c": "213",
     "cca3": "DZA",
@@ -57,11 +115,32 @@
     "capital_n": "Algiers",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "DZD"
+    ],
+    "border_country_n_arr": [
+      "Tunisia",
+      "United Kingdom",
+      "Niger",
+      "Western Sahara",
+      "Mauritania",
+      "Mali",
+      "Morocco"
+    ]
   },
   {
     "demonym": "American Samoan",
-    "_loc": { "type": "Point", "coordinates": [-170, -14.33333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -170,
+        -14.33333333
+      ]
+    },
     "population": 55519,
     "calling_c": "1684",
     "cca3": "ASM",
@@ -72,11 +151,24 @@
     "capital_n": "Pago Pago",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English",
+      "Samoan"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Andorran",
-    "_loc": { "type": "Point", "coordinates": [1.5, 42.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        1.5,
+        42.5
+      ]
+    },
     "population": 76246,
     "calling_c": "376",
     "cca3": "AND",
@@ -87,11 +179,27 @@
     "capital_n": "Andorra la Vella",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Catalan; Valencian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "France",
+      "Spain"
+    ]
   },
   {
     "demonym": "Angolan",
-    "_loc": { "type": "Point", "coordinates": [18.5, -12.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        18.5,
+        -12.5
+      ]
+    },
     "population": 20609294,
     "calling_c": "244",
     "cca3": "AGO",
@@ -102,11 +210,29 @@
     "capital_n": "Luanda",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "AOA"
+    ],
+    "border_country_n_arr": [
+      "Republic of the Congo",
+      "Democratic Republic of the Congo",
+      "Zambia",
+      "Namibia"
+    ]
   },
   {
     "demonym": "Anguillian",
-    "_loc": { "type": "Point", "coordinates": [-63.16666666, 18.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -63.16666666,
+        18.25
+      ]
+    },
     "population": 13452,
     "calling_c": "1264",
     "cca3": "AIA",
@@ -117,10 +243,22 @@
     "capital_n": "The Valley",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
-    "_loc": { "type": "Point", "coordinates": [0, -90] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        -90
+      ]
+    },
     "population": -1,
     "cca3": "ATA",
     "ccn3": "010",
@@ -131,7 +269,13 @@
   },
   {
     "demonym": "Antiguan, Barbudan",
-    "_loc": { "type": "Point", "coordinates": [-61.8, 17.05] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61.8,
+        17.05
+      ]
+    },
     "population": 86295,
     "calling_c": "1268",
     "cca3": "ATG",
@@ -142,11 +286,23 @@
     "capital_n": "Saint John’s",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Argentinean",
-    "_loc": { "type": "Point", "coordinates": [-64, -34] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -64,
+        -34
+      ]
+    },
     "population": 40117096,
     "calling_c": "54",
     "cca3": "ARG",
@@ -157,11 +313,31 @@
     "capital_n": "Buenos Aires",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish",
+      "Guaraní"
+    ],
+    "currency_c_arr": [
+      "ARS"
+    ],
+    "border_country_n_arr": [
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Paraguay",
+      "Uruguay"
+    ]
   },
   {
     "demonym": "Armenian",
-    "_loc": { "type": "Point", "coordinates": [45, 40] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        45,
+        40
+      ]
+    },
     "population": 3024100,
     "calling_c": "374",
     "cca3": "ARM",
@@ -172,11 +348,30 @@
     "capital_n": "Yerevan",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Armenian",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "AMD"
+    ],
+    "border_country_n_arr": [
+      "Azerbaijan",
+      "Georgia",
+      "Iran",
+      "Turkey"
+    ]
   },
   {
     "demonym": "Aruban",
-    "_loc": { "type": "Point", "coordinates": [-69.96666666, 12.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -69.96666666,
+        12.5
+      ]
+    },
     "population": 101484,
     "calling_c": "297",
     "cca3": "ABW",
@@ -187,11 +382,23 @@
     "capital_n": "Oranjestad",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "Dutch"
+    ],
+    "currency_c_arr": [
+      "AWG"
+    ]
   },
   {
     "demonym": "Australian",
-    "_loc": { "type": "Point", "coordinates": [133, -27] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        133,
+        -27
+      ]
+    },
     "population": 23254142,
     "calling_c": "61",
     "cca3": "AUS",
@@ -202,11 +409,20 @@
     "capital_n": "Canberra",
     "relevance": 1.5,
     "continent_n": "Oceania",
-    "sub_region": "Australia and New Zealand"
+    "sub_region": "Australia and New Zealand",
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Austrian",
-    "_loc": { "type": "Point", "coordinates": [13.33333333, 47.33333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        13.33333333,
+        47.33333333
+      ]
+    },
     "population": 8501502,
     "calling_c": "43",
     "cca3": "AUT",
@@ -217,11 +433,33 @@
     "capital_n": "Vienna",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "German"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Czech Republic",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Liechtenstein",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland"
+    ]
   },
   {
     "demonym": "Azerbaijani",
-    "_loc": { "type": "Point", "coordinates": [47.5, 40.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        47.5,
+        40.5
+      ]
+    },
     "population": 9235100,
     "calling_c": "994",
     "cca3": "AZE",
@@ -232,11 +470,31 @@
     "capital_n": "Baku",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Azerbaijani",
+      "Armenian"
+    ],
+    "currency_c_arr": [
+      "AZN"
+    ],
+    "border_country_n_arr": [
+      "Armenia",
+      "Georgia",
+      "Iran",
+      "Russia",
+      "Turkey"
+    ]
   },
   {
     "demonym": "Bahamian",
-    "_loc": { "type": "Point", "coordinates": [-76, 24.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -76,
+        24.25
+      ]
+    },
     "population": -1,
     "calling_c": "1242",
     "cca3": "BHS",
@@ -247,11 +505,23 @@
     "capital_n": "Nassau",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "BSD"
+    ]
   },
   {
     "demonym": "Bahraini",
-    "_loc": { "type": "Point", "coordinates": [50.55, 26] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        50.55,
+        26
+      ]
+    },
     "population": 1234571,
     "calling_c": "973",
     "cca3": "BHR",
@@ -262,11 +532,23 @@
     "capital_n": "Manama",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "BHD"
+    ]
   },
   {
     "demonym": "Bangladeshi",
-    "_loc": { "type": "Point", "coordinates": [90, 24] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        90,
+        24
+      ]
+    },
     "population": 152518015,
     "calling_c": "880",
     "cca3": "BGD",
@@ -277,11 +559,27 @@
     "capital_n": "Dhaka",
     "relevance": 2,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Bengali"
+    ],
+    "currency_c_arr": [
+      "BDT"
+    ],
+    "border_country_n_arr": [
+      "Myanmar",
+      "India"
+    ]
   },
   {
     "demonym": "Barbadian",
-    "_loc": { "type": "Point", "coordinates": [-59.53333333, 13.16666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -59.53333333,
+        13.16666666
+      ]
+    },
     "population": 274200,
     "calling_c": "1246",
     "cca3": "BRB",
@@ -292,11 +590,23 @@
     "capital_n": "Bridgetown",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "BBD"
+    ]
   },
   {
     "demonym": "Belarusian",
-    "_loc": { "type": "Point", "coordinates": [28, 53] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        28,
+        53
+      ]
+    },
     "population": 9465500,
     "calling_c": "375",
     "cca3": "BLR",
@@ -307,11 +617,31 @@
     "capital_n": "Minsk",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Belarusian",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "BYR"
+    ],
+    "border_country_n_arr": [
+      "Latvia",
+      "Lithuania",
+      "Poland",
+      "Russia",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Belgian",
-    "_loc": { "type": "Point", "coordinates": [4, 50.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        4,
+        50.83333333
+      ]
+    },
     "population": 11175653,
     "calling_c": "32",
     "cca3": "BEL",
@@ -322,11 +652,31 @@
     "capital_n": "Brussels",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "France",
+      "Germany",
+      "Luxembourg",
+      "Netherlands"
+    ]
   },
   {
     "demonym": "Belizean",
-    "_loc": { "type": "Point", "coordinates": [-88.75, 17.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -88.75,
+        17.25
+      ]
+    },
     "population": 312971,
     "calling_c": "501",
     "cca3": "BLZ",
@@ -337,11 +687,28 @@
     "capital_n": "Belmopan",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "English",
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "BZD"
+    ],
+    "border_country_n_arr": [
+      "Guatemala",
+      "Mexico"
+    ]
   },
   {
     "demonym": "Beninese",
-    "_loc": { "type": "Point", "coordinates": [2.25, 9.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        2.25,
+        9.5
+      ]
+    },
     "population": 10323000,
     "calling_c": "229",
     "cca3": "BEN",
@@ -352,11 +719,29 @@
     "capital_n": "Porto-Novo",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Burkina Faso",
+      "Niger",
+      "Nigeria",
+      "Togo"
+    ]
   },
   {
     "demonym": "Bermudian",
-    "_loc": { "type": "Point", "coordinates": [-64.75, 32.33333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -64.75,
+        32.33333333
+      ]
+    },
     "population": 64237,
     "calling_c": "1441",
     "cca3": "BMU",
@@ -367,11 +752,23 @@
     "capital_n": "Hamilton",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Northern America"
+    "sub_region": "Northern America",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "BMD"
+    ]
   },
   {
     "demonym": "Bhutanese",
-    "_loc": { "type": "Point", "coordinates": [90.5, 27.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        90.5,
+        27.5
+      ]
+    },
     "population": 740990,
     "calling_c": "975",
     "cca3": "BTN",
@@ -382,11 +779,28 @@
     "capital_n": "Thimphu",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Turkmen"
+    ],
+    "currency_c_arr": [
+      "BTN",
+      "INR"
+    ],
+    "border_country_n_arr": [
+      "China",
+      "India"
+    ]
   },
   {
     "demonym": "Bolivian",
-    "_loc": { "type": "Point", "coordinates": [-65, -17] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -65,
+        -17
+      ]
+    },
     "population": 10027254,
     "calling_c": "591",
     "cca3": "BOL",
@@ -397,11 +811,33 @@
     "capital_n": "Sucre",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish",
+      "Aymara",
+      "Quechua"
+    ],
+    "currency_c_arr": [
+      "BOB",
+      "BOV"
+    ],
+    "border_country_n_arr": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Paraguay",
+      "Peru"
+    ]
   },
   {
     "demonym": "Dutch",
-    "_loc": { "type": "Point", "coordinates": [-68.266667, 12.15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -68.266667,
+        12.15
+      ]
+    },
     "population": -1,
     "calling_c": "5997",
     "cca3": "BES",
@@ -412,11 +848,20 @@
     "capital_n": "Kralendijk",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Bosnian, Herzegovinian",
-    "_loc": { "type": "Point", "coordinates": [18, 44] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        18,
+        44
+      ]
+    },
     "population": 3791622,
     "calling_c": "387",
     "cca3": "BIH",
@@ -427,11 +872,30 @@
     "capital_n": "Sarajevo",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "currency_c_arr": [
+      "BAM"
+    ],
+    "border_country_n_arr": [
+      "Croatia",
+      "Montenegro",
+      "Serbia"
+    ]
   },
   {
     "demonym": "Motswana",
-    "_loc": { "type": "Point", "coordinates": [24, -22] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        24,
+        -22
+      ]
+    },
     "population": 2024904,
     "calling_c": "267",
     "cca3": "BWA",
@@ -442,10 +906,29 @@
     "capital_n": "Gaborone",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Southern Africa"
+    "sub_region": "Southern Africa",
+    "language_n_arr": [
+      "English",
+      "Tswana"
+    ],
+    "currency_c_arr": [
+      "BWP"
+    ],
+    "border_country_n_arr": [
+      "Namibia",
+      "South Africa",
+      "Zambia",
+      "Zimbabwe"
+    ]
   },
   {
-    "_loc": { "type": "Point", "coordinates": [3.4, -54.43333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        3.4,
+        -54.43333333
+      ]
+    },
     "population": -1,
     "cca3": "BVT",
     "ccn3": "074",
@@ -453,11 +936,20 @@
     "_nt_country_n": "Bouvetøya",
     "country_n": "Bouvet Island",
     "relevance": 0,
-    "continent_n": "Antarctica"
+    "continent_n": "Antarctica",
+    "currency_c_arr": [
+      "NOK"
+    ]
   },
   {
     "demonym": "Brazilian",
-    "_loc": { "type": "Point", "coordinates": [-55, -10] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -55,
+        -10
+      ]
+    },
     "population": 201032714,
     "calling_c": "55",
     "cca3": "BRA",
@@ -468,11 +960,35 @@
     "capital_n": "Brasília",
     "relevance": 2,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "BRL"
+    ],
+    "border_country_n_arr": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "French Guiana",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
   },
   {
     "demonym": "Indian",
-    "_loc": { "type": "Point", "coordinates": [71.5, -6] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        71.5,
+        -6
+      ]
+    },
     "population": -1,
     "calling_c": "246",
     "cca3": "IOT",
@@ -483,11 +999,23 @@
     "capital_n": "Diego Garcia",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Virgin Islander",
-    "_loc": { "type": "Point", "coordinates": [-64.62305, 18.431383] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -64.62305,
+        18.431383
+      ]
+    },
     "population": 29537,
     "calling_c": "1284",
     "cca3": "VGB",
@@ -498,11 +1026,23 @@
     "capital_n": "Road Town",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Bruneian",
-    "_loc": { "type": "Point", "coordinates": [114.66666666, 4.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        114.66666666,
+        4.5
+      ]
+    },
     "population": 393162,
     "calling_c": "673",
     "cca3": "BRN",
@@ -513,11 +1053,26 @@
     "capital_n": "Bandar Seri Begawan",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "language_n_arr": [
+      "Malay"
+    ],
+    "currency_c_arr": [
+      "BND"
+    ],
+    "border_country_n_arr": [
+      "Malaysia"
+    ]
   },
   {
     "demonym": "Bulgarian",
-    "_loc": { "type": "Point", "coordinates": [25, 43] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        25,
+        43
+      ]
+    },
     "population": 7282041,
     "calling_c": "359",
     "cca3": "BGR",
@@ -528,11 +1083,30 @@
     "capital_n": "Sofia",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Bulgarian"
+    ],
+    "currency_c_arr": [
+      "BGN"
+    ],
+    "border_country_n_arr": [
+      "Greece",
+      "Macedonia",
+      "Romania",
+      "Serbia",
+      "Turkey"
+    ]
   },
   {
     "demonym": "Burkinabe",
-    "_loc": { "type": "Point", "coordinates": [-2, 13] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -2,
+        13
+      ]
+    },
     "population": 17322796,
     "calling_c": "226",
     "cca3": "BFA",
@@ -543,11 +1117,32 @@
     "capital_n": "Ouagadougou",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French",
+      "Fula; Fulah; Pulaar; Pular"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Benin",
+      "Côte d'Ivoire",
+      "Ghana",
+      "Mali",
+      "Niger",
+      "Togo"
+    ]
   },
   {
     "demonym": "Burundian",
-    "_loc": { "type": "Point", "coordinates": [30, -3.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        -3.5
+      ]
+    },
     "population": 10163000,
     "calling_c": "257",
     "cca3": "BDI",
@@ -558,11 +1153,29 @@
     "capital_n": "Bujumbura",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "French",
+      "Kirundi"
+    ],
+    "currency_c_arr": [
+      "BIF"
+    ],
+    "border_country_n_arr": [
+      "Democratic Republic of the Congo",
+      "Rwanda",
+      "Tanzania"
+    ]
   },
   {
     "demonym": "Cambodian",
-    "_loc": { "type": "Point", "coordinates": [105, 13] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        105,
+        13
+      ]
+    },
     "population": 15135000,
     "calling_c": "855",
     "cca3": "KHM",
@@ -573,11 +1186,25 @@
     "capital_n": "Phnom Penh",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "KHR"
+    ],
+    "border_country_n_arr": [
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ]
   },
   {
     "demonym": "Cameroonian",
-    "_loc": { "type": "Point", "coordinates": [12, 6] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        12,
+        6
+      ]
+    },
     "population": 20386799,
     "calling_c": "237",
     "cca3": "CMR",
@@ -588,11 +1215,32 @@
     "capital_n": "Yaoundé",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "English",
+      "French"
+    ],
+    "currency_c_arr": [
+      "XAF"
+    ],
+    "border_country_n_arr": [
+      "Central African Republic",
+      "Chad",
+      "Republic of the Congo",
+      "Equatorial Guinea",
+      "Gabon",
+      "Nigeria"
+    ]
   },
   {
     "demonym": "Canadian",
-    "_loc": { "type": "Point", "coordinates": [-95, 60] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -95,
+        60
+      ]
+    },
     "population": 35158304,
     "calling_c": "1",
     "cca3": "CAN",
@@ -603,11 +1251,27 @@
     "capital_n": "Ottawa",
     "relevance": 2,
     "continent_n": "North America",
-    "sub_region": "Northern America"
+    "sub_region": "Northern America",
+    "language_n_arr": [
+      "English",
+      "French"
+    ],
+    "currency_c_arr": [
+      "CAD"
+    ],
+    "border_country_n_arr": [
+      "United States"
+    ]
   },
   {
     "demonym": "Cape Verdian",
-    "_loc": { "type": "Point", "coordinates": [-24, 16] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -24,
+        16
+      ]
+    },
     "population": 491875,
     "calling_c": "238",
     "cca3": "CPV",
@@ -618,11 +1282,23 @@
     "capital_n": "Praia",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "CVE"
+    ]
   },
   {
     "demonym": "Caymanian",
-    "_loc": { "type": "Point", "coordinates": [-80.5, 19.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -80.5,
+        19.5
+      ]
+    },
     "population": 55456,
     "calling_c": "1345",
     "cca3": "CYM",
@@ -633,11 +1309,23 @@
     "capital_n": "George Town",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "KYD"
+    ]
   },
   {
     "demonym": "Central African",
-    "_loc": { "type": "Point", "coordinates": [21, 7] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        21,
+        7
+      ]
+    },
     "population": 4616000,
     "calling_c": "236",
     "cca3": "CAF",
@@ -648,11 +1336,32 @@
     "capital_n": "Bangui",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "French",
+      "Sango"
+    ],
+    "currency_c_arr": [
+      "XAF"
+    ],
+    "border_country_n_arr": [
+      "Cameroon",
+      "Chad",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "South Sudan",
+      "Sudan"
+    ]
   },
   {
     "demonym": "Chadian",
-    "_loc": { "type": "Point", "coordinates": [19, 15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        19,
+        15
+      ]
+    },
     "population": 12825000,
     "calling_c": "235",
     "cca3": "TCD",
@@ -663,11 +1372,32 @@
     "capital_n": "N'Djamena",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "Arabic",
+      "French"
+    ],
+    "currency_c_arr": [
+      "XAF"
+    ],
+    "border_country_n_arr": [
+      "Cameroon",
+      "Central African Republic",
+      "Libya",
+      "Niger",
+      "Nigeria",
+      "South Sudan"
+    ]
   },
   {
     "demonym": "Chilean",
-    "_loc": { "type": "Point", "coordinates": [-71, -30] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -71,
+        -30
+      ]
+    },
     "population": 16634603,
     "calling_c": "56",
     "cca3": "CHL",
@@ -678,11 +1408,28 @@
     "capital_n": "Santiago",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "CLP"
+    ],
+    "border_country_n_arr": [
+      "Argentina",
+      "Bolivia",
+      "Peru"
+    ]
   },
   {
     "demonym": "Chinese",
-    "_loc": { "type": "Point", "coordinates": [105, 35] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        105,
+        35
+      ]
+    },
     "population": 1361170000,
     "calling_c": "86",
     "cca3": "CHN",
@@ -693,11 +1440,40 @@
     "capital_n": "Beijing",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Chinese"
+    ],
+    "currency_c_arr": [
+      "CNY"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "Bhutan",
+      "Myanmar",
+      "Hong Kong",
+      "India",
+      "Kazakhstan",
+      "North Korea",
+      "Kyrgyzstan",
+      "Laos",
+      "Macau",
+      "Mongolia",
+      "Pakistan",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ]
   },
   {
     "demonym": "Christmas Island",
-    "_loc": { "type": "Point", "coordinates": [105.66666666, -10.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        105.66666666,
+        -10.5
+      ]
+    },
     "population": 2072,
     "calling_c": "61",
     "cca3": "CXR",
@@ -708,11 +1484,20 @@
     "capital_n": "Flying Fish Cove",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Australia and New Zealand"
+    "sub_region": "Australia and New Zealand",
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Cocos Islander",
-    "_loc": { "type": "Point", "coordinates": [96.83333333, -12.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        96.83333333,
+        -12.5
+      ]
+    },
     "population": 550,
     "calling_c": "61",
     "cca3": "CCK",
@@ -723,11 +1508,20 @@
     "capital_n": "West Island",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Australia and New Zealand"
+    "sub_region": "Australia and New Zealand",
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Colombian",
-    "_loc": { "type": "Point", "coordinates": [-72, 4] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -72,
+        4
+      ]
+    },
     "population": 47330000,
     "calling_c": "57",
     "cca3": "COL",
@@ -738,11 +1532,30 @@
     "capital_n": "Bogotá",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "COP"
+    ],
+    "border_country_n_arr": [
+      "Brazil",
+      "Ecuador",
+      "Panama",
+      "Peru",
+      "Venezuela"
+    ]
   },
   {
     "demonym": "Comoran",
-    "_loc": { "type": "Point", "coordinates": [44.25, -12.16666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        44.25,
+        -12.16666666
+      ]
+    },
     "population": 724300,
     "calling_c": "269",
     "cca3": "COM",
@@ -753,11 +1566,24 @@
     "capital_n": "Moroni",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Arabic",
+      "French"
+    ],
+    "currency_c_arr": [
+      "KMF"
+    ]
   },
   {
     "demonym": "Congolese",
-    "_loc": { "type": "Point", "coordinates": [15, -1] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        15,
+        -1
+      ]
+    },
     "population": 4448000,
     "calling_c": "242",
     "cca3": "COG",
@@ -768,11 +1594,31 @@
     "capital_n": "Brazzaville",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "French",
+      "Lingala"
+    ],
+    "currency_c_arr": [
+      "XAF"
+    ],
+    "border_country_n_arr": [
+      "Angola",
+      "Cameroon",
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Gabon"
+    ]
   },
   {
     "demonym": "Congolese",
-    "_loc": { "type": "Point", "coordinates": [25, 0] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        25,
+        0
+      ]
+    },
     "population": 67514000,
     "calling_c": "243",
     "cca3": "COD",
@@ -783,11 +1629,38 @@
     "capital_n": "Kinshasa",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "French",
+      "Lingala",
+      "Kongo",
+      "Swahili",
+      "Luba-Katanga"
+    ],
+    "currency_c_arr": [
+      "CDF"
+    ],
+    "border_country_n_arr": [
+      "Angola",
+      "Burundi",
+      "Central African Republic",
+      "Republic of the Congo",
+      "Rwanda",
+      "South Sudan",
+      "Tanzania",
+      "Uganda",
+      "Zambia"
+    ]
   },
   {
     "demonym": "Cook Islander",
-    "_loc": { "type": "Point", "coordinates": [-159.76666666, -21.23333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -159.76666666,
+        -21.23333333
+      ]
+    },
     "population": 14974,
     "calling_c": "682",
     "cca3": "COK",
@@ -798,11 +1671,23 @@
     "capital_n": "Avarua",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "NZD"
+    ]
   },
   {
     "demonym": "Costa Rican",
-    "_loc": { "type": "Point", "coordinates": [-84, 10] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -84,
+        10
+      ]
+    },
     "population": 4667096,
     "calling_c": "506",
     "cca3": "CRI",
@@ -813,11 +1698,27 @@
     "capital_n": "San José",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "CRC"
+    ],
+    "border_country_n_arr": [
+      "Nicaragua",
+      "Panama"
+    ]
   },
   {
     "demonym": "Ivorian",
-    "_loc": { "type": "Point", "coordinates": [-5, 8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -5,
+        8
+      ]
+    },
     "population": -1,
     "calling_c": "225",
     "cca3": "CIV",
@@ -828,11 +1729,30 @@
     "capital_n": "Yamoussoukro",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Burkina Faso",
+      "Ghana",
+      "Guinea",
+      "Liberia",
+      "Mali"
+    ]
   },
   {
     "demonym": "Croatian",
-    "_loc": { "type": "Point", "coordinates": [15.5, 45.16666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        15.5,
+        45.16666666
+      ]
+    },
     "population": 4290612,
     "calling_c": "385",
     "cca3": "HRV",
@@ -843,11 +1763,30 @@
     "capital_n": "Zagreb",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Croatian"
+    ],
+    "currency_c_arr": [
+      "HRK"
+    ],
+    "border_country_n_arr": [
+      "Bosnia and Herzegovina",
+      "Hungary",
+      "Montenegro",
+      "Serbia",
+      "Slovenia"
+    ]
   },
   {
     "demonym": "Cuban",
-    "_loc": { "type": "Point", "coordinates": [-80, 21.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -80,
+        21.5
+      ]
+    },
     "population": 11167325,
     "calling_c": "53",
     "cca3": "CUB",
@@ -858,11 +1797,24 @@
     "capital_n": "Havana",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "CUC",
+      "CUP"
+    ]
   },
   {
     "demonym": "Dutch",
-    "_loc": { "type": "Point", "coordinates": [-68.933333, 12.116667] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -68.933333,
+        12.116667
+      ]
+    },
     "population": 150563,
     "calling_c": "5999",
     "cca3": "CUW",
@@ -873,11 +1825,20 @@
     "capital_n": "Willemstad",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "currency_c_arr": [
+      "ANG"
+    ]
   },
   {
     "demonym": "Cypriot",
-    "_loc": { "type": "Point", "coordinates": [33, 35] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        33,
+        35
+      ]
+    },
     "population": 865878,
     "calling_c": "357",
     "cca3": "CYP",
@@ -888,11 +1849,28 @@
     "capital_n": "Nicosia",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Greek, Modern",
+      "Turkish",
+      "Armenian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "United Kingdom"
+    ]
   },
   {
     "demonym": "Czech",
-    "_loc": { "type": "Point", "coordinates": [15.5, 49.75] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        15.5,
+        49.75
+      ]
+    },
     "population": 10512900,
     "calling_c": "420",
     "cca3": "CZE",
@@ -903,11 +1881,30 @@
     "capital_n": "Prague",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Czech",
+      "Slovak"
+    ],
+    "currency_c_arr": [
+      "CZK"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "Germany",
+      "Poland",
+      "Slovakia"
+    ]
   },
   {
     "demonym": "Danish",
-    "_loc": { "type": "Point", "coordinates": [10, 56] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        10,
+        56
+      ]
+    },
     "population": 5623501,
     "calling_c": "45",
     "cca3": "DNK",
@@ -918,11 +1915,26 @@
     "capital_n": "Copenhagen",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Danish"
+    ],
+    "currency_c_arr": [
+      "DKK"
+    ],
+    "border_country_n_arr": [
+      "Germany"
+    ]
   },
   {
     "demonym": "Djibouti",
-    "_loc": { "type": "Point", "coordinates": [43, 11.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        43,
+        11.5
+      ]
+    },
     "population": 864618,
     "calling_c": "253",
     "cca3": "DJI",
@@ -933,11 +1945,29 @@
     "capital_n": "Djibouti",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Arabic",
+      "French"
+    ],
+    "currency_c_arr": [
+      "DJF"
+    ],
+    "border_country_n_arr": [
+      "Eritrea",
+      "Ethiopia",
+      "Somalia"
+    ]
   },
   {
     "demonym": "Dominican",
-    "_loc": { "type": "Point", "coordinates": [-61.33333333, 15.41666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61.33333333,
+        15.41666666
+      ]
+    },
     "population": 71293,
     "calling_c": "1767",
     "cca3": "DMA",
@@ -948,11 +1978,23 @@
     "capital_n": "Roseau",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Dominican",
-    "_loc": { "type": "Point", "coordinates": [-70.66666666, 19] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -70.66666666,
+        19
+      ]
+    },
     "population": 9445281,
     "calling_c": "1849",
     "cca3": "DOM",
@@ -963,11 +2005,26 @@
     "capital_n": "Santo Domingo",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "DOP"
+    ],
+    "border_country_n_arr": [
+      "Haiti"
+    ]
   },
   {
     "demonym": "Ecuadorean",
-    "_loc": { "type": "Point", "coordinates": [-77.5, -2] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -77.5,
+        -2
+      ]
+    },
     "population": 15617900,
     "calling_c": "593",
     "cca3": "ECU",
@@ -978,11 +2035,27 @@
     "capital_n": "Quito",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ],
+    "border_country_n_arr": [
+      "Colombia",
+      "Peru"
+    ]
   },
   {
     "demonym": "Egyptian",
-    "_loc": { "type": "Point", "coordinates": [30, 27] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        27
+      ]
+    },
     "population": 83661000,
     "calling_c": "20",
     "cca3": "EGY",
@@ -993,11 +2066,28 @@
     "capital_n": "Cairo",
     "relevance": 1.5,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "EGP"
+    ],
+    "border_country_n_arr": [
+      "Israel",
+      "Libya",
+      "Sudan"
+    ]
   },
   {
     "demonym": "Salvadoran",
-    "_loc": { "type": "Point", "coordinates": [-88.91666666, 13.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -88.91666666,
+        13.83333333
+      ]
+    },
     "population": 6340000,
     "calling_c": "503",
     "cca3": "SLV",
@@ -1008,11 +2098,28 @@
     "capital_n": "San Salvador",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "SVC",
+      "USD"
+    ],
+    "border_country_n_arr": [
+      "Guatemala",
+      "Honduras"
+    ]
   },
   {
     "demonym": "Equatorial Guinean",
-    "_loc": { "type": "Point", "coordinates": [10, 2] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        10,
+        2
+      ]
+    },
     "population": 1622000,
     "calling_c": "240",
     "cca3": "GNQ",
@@ -1023,11 +2130,28 @@
     "capital_n": "Malabo",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "Spanish",
+      "French"
+    ],
+    "currency_c_arr": [
+      "XAF"
+    ],
+    "border_country_n_arr": [
+      "Cameroon",
+      "Gabon"
+    ]
   },
   {
     "demonym": "Eritrean",
-    "_loc": { "type": "Point", "coordinates": [39, 15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        39,
+        15
+      ]
+    },
     "population": 6333000,
     "calling_c": "291",
     "cca3": "ERI",
@@ -1038,11 +2162,30 @@
     "capital_n": "Asmara",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English",
+      "Arabic",
+      "Tigrinya"
+    ],
+    "currency_c_arr": [
+      "ERN"
+    ],
+    "border_country_n_arr": [
+      "Djibouti",
+      "Ethiopia",
+      "Sudan"
+    ]
   },
   {
     "demonym": "Estonian",
-    "_loc": { "type": "Point", "coordinates": [26, 59] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        26,
+        59
+      ]
+    },
     "population": 1286540,
     "calling_c": "372",
     "cca3": "EST",
@@ -1053,11 +2196,27 @@
     "capital_n": "Tallinn",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Estonian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Latvia",
+      "Russia"
+    ]
   },
   {
     "demonym": "Ethiopian",
-    "_loc": { "type": "Point", "coordinates": [38, 8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        38,
+        8
+      ]
+    },
     "population": 86613986,
     "calling_c": "251",
     "cca3": "ETH",
@@ -1068,11 +2227,31 @@
     "capital_n": "Addis Ababa",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Amharic"
+    ],
+    "currency_c_arr": [
+      "ETB"
+    ],
+    "border_country_n_arr": [
+      "Djibouti",
+      "Eritrea",
+      "Kenya",
+      "Somalia",
+      "South Sudan",
+      "Sudan"
+    ]
   },
   {
     "demonym": "Falkland Islander",
-    "_loc": { "type": "Point", "coordinates": [-59, -51.75] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -59,
+        -51.75
+      ]
+    },
     "population": 2563,
     "calling_c": "500",
     "cca3": "FLK",
@@ -1083,11 +2262,23 @@
     "capital_n": "Stanley",
     "relevance": 0.5,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "FKP"
+    ]
   },
   {
     "demonym": "Faroese",
-    "_loc": { "type": "Point", "coordinates": [-7, 62] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -7,
+        62
+      ]
+    },
     "population": 48509,
     "calling_c": "298",
     "cca3": "FRO",
@@ -1098,11 +2289,23 @@
     "capital_n": "Tórshavn",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Faroese"
+    ],
+    "currency_c_arr": [
+      "DKK"
+    ]
   },
   {
     "demonym": "Fijian",
-    "_loc": { "type": "Point", "coordinates": [175, -18] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        175,
+        -18
+      ]
+    },
     "population": 858038,
     "calling_c": "679",
     "cca3": "FJI",
@@ -1113,11 +2316,26 @@
     "capital_n": "Suva",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Melanesia"
+    "sub_region": "Melanesia",
+    "language_n_arr": [
+      "English",
+      "Fijian",
+      "Hindi",
+      "Urdu"
+    ],
+    "currency_c_arr": [
+      "FJD"
+    ]
   },
   {
     "demonym": "Finnish",
-    "_loc": { "type": "Point", "coordinates": [26, 64] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        26,
+        64
+      ]
+    },
     "population": 5445883,
     "calling_c": "358",
     "cca3": "FIN",
@@ -1128,11 +2346,29 @@
     "capital_n": "Helsinki",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Finnish",
+      "Swedish"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Norway",
+      "Sweden",
+      "Russia"
+    ]
   },
   {
     "demonym": "French",
-    "_loc": { "type": "Point", "coordinates": [2, 46] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        2,
+        46
+      ]
+    },
     "population": 65806000,
     "calling_c": "33",
     "cca3": "FRA",
@@ -1143,10 +2379,32 @@
     "capital_n": "Paris",
     "relevance": 2.5,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Andorra",
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland"
+    ]
   },
   {
-    "_loc": { "type": "Point", "coordinates": [-53, 4] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -53,
+        4
+      ]
+    },
     "population": 229040,
     "calling_c": "594",
     "cca3": "GUF",
@@ -1157,11 +2415,27 @@
     "capital_n": "Cayenne",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Brazil",
+      "Suriname"
+    ]
   },
   {
     "demonym": "French Polynesian",
-    "_loc": { "type": "Point", "coordinates": [-140, -15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -140,
+        -15
+      ]
+    },
     "population": 268270,
     "calling_c": "689",
     "cca3": "PYF",
@@ -1172,7 +2446,13 @@
     "capital_n": "Papeetē",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XPF"
+    ]
   },
   {
     "demonym": "French",
@@ -1185,11 +2465,23 @@
     "name": "French Southern and Antarctic Lands",
     "capital_n": "Port-aux-Français",
     "relevance": 0,
-    "continent_n": "Antarctica"
+    "continent_n": "Antarctica",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Gabonese",
-    "_loc": { "type": "Point", "coordinates": [11.75, -1] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        11.75,
+        -1
+      ]
+    },
     "population": 1672000,
     "calling_c": "241",
     "cca3": "GAB",
@@ -1200,11 +2492,28 @@
     "capital_n": "Libreville",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XAF"
+    ],
+    "border_country_n_arr": [
+      "Cameroon",
+      "Republic of the Congo",
+      "Equatorial Guinea"
+    ]
   },
   {
     "demonym": "Gambian",
-    "_loc": { "type": "Point", "coordinates": [-16.56666666, 13.46666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -16.56666666,
+        13.46666666
+      ]
+    },
     "population": -1,
     "calling_c": "220",
     "cca3": "GMB",
@@ -1215,11 +2524,26 @@
     "capital_n": "Banjul",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "GMD"
+    ],
+    "border_country_n_arr": [
+      "Senegal"
+    ]
   },
   {
     "demonym": "Georgian",
-    "_loc": { "type": "Point", "coordinates": [43.5, 42] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        43.5,
+        42
+      ]
+    },
     "population": -1,
     "calling_c": "995",
     "cca3": "GEO",
@@ -1230,11 +2554,29 @@
     "capital_n": "Tbilisi",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Georgian"
+    ],
+    "currency_c_arr": [
+      "GEL"
+    ],
+    "border_country_n_arr": [
+      "Armenia",
+      "Azerbaijan",
+      "Russia",
+      "Turkey"
+    ]
   },
   {
     "demonym": "German",
-    "_loc": { "type": "Point", "coordinates": [9, 51] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        9,
+        51
+      ]
+    },
     "population": 80523700,
     "calling_c": "49",
     "cca3": "DEU",
@@ -1245,11 +2587,34 @@
     "capital_n": "Berlin",
     "relevance": 3,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "German"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "Belgium",
+      "Czech Republic",
+      "Denmark",
+      "France",
+      "Luxembourg",
+      "Netherlands",
+      "Poland",
+      "Switzerland"
+    ]
   },
   {
     "demonym": "Ghanaian",
-    "_loc": { "type": "Point", "coordinates": [-2, 8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -2,
+        8
+      ]
+    },
     "population": 24658823,
     "calling_c": "233",
     "cca3": "GHA",
@@ -1260,11 +2625,28 @@
     "capital_n": "Accra",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "GHS"
+    ],
+    "border_country_n_arr": [
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Togo"
+    ]
   },
   {
     "demonym": "Gibraltar",
-    "_loc": { "type": "Point", "coordinates": [-5.35, 36.13333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -5.35,
+        36.13333333
+      ]
+    },
     "population": 29752,
     "calling_c": "350",
     "cca3": "GIB",
@@ -1275,11 +2657,26 @@
     "capital_n": "Gibraltar",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "GIP"
+    ],
+    "border_country_n_arr": [
+      "Spain"
+    ]
   },
   {
     "demonym": "Greek",
-    "_loc": { "type": "Point", "coordinates": [22, 39] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        22,
+        39
+      ]
+    },
     "population": 10815197,
     "calling_c": "30",
     "cca3": "GRC",
@@ -1290,11 +2687,29 @@
     "capital_n": "Athens",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Greek, Modern"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Albania",
+      "Bulgaria",
+      "Turkey",
+      "Macedonia"
+    ]
   },
   {
     "demonym": "Greenlandic",
-    "_loc": { "type": "Point", "coordinates": [-40, 72] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -40,
+        72
+      ]
+    },
     "population": 56370,
     "calling_c": "299",
     "cca3": "GRL",
@@ -1305,11 +2720,23 @@
     "capital_n": "Nuuk",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Northern America"
+    "sub_region": "Northern America",
+    "language_n_arr": [
+      "Kalaallisut, Greenlandic"
+    ],
+    "currency_c_arr": [
+      "DKK"
+    ]
   },
   {
     "demonym": "Grenadian",
-    "_loc": { "type": "Point", "coordinates": [-61.66666666, 12.11666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61.66666666,
+        12.11666666
+      ]
+    },
     "population": 103328,
     "calling_c": "1473",
     "cca3": "GRD",
@@ -1320,11 +2747,23 @@
     "capital_n": "Saint George's",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Guadeloupian",
-    "_loc": { "type": "Point", "coordinates": [-61.583333, 16.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61.583333,
+        16.25
+      ]
+    },
     "population": 403355,
     "calling_c": "590",
     "cca3": "GLP",
@@ -1335,11 +2774,23 @@
     "capital_n": "Basse-Terre",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Guamanian",
-    "_loc": { "type": "Point", "coordinates": [144.78333333, 13.46666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        144.78333333,
+        13.46666666
+      ]
+    },
     "population": 159358,
     "calling_c": "1671",
     "cca3": "GUM",
@@ -1350,11 +2801,25 @@
     "capital_n": "Hagåtña",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English",
+      "Chamorro",
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Guatemalan",
-    "_loc": { "type": "Point", "coordinates": [-90.25, 15.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -90.25,
+        15.5
+      ]
+    },
     "population": 15438384,
     "calling_c": "502",
     "cca3": "GTM",
@@ -1365,11 +2830,29 @@
     "capital_n": "Guatemala City",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "GTQ"
+    ],
+    "border_country_n_arr": [
+      "Belize",
+      "El Salvador",
+      "Honduras",
+      "Mexico"
+    ]
   },
   {
     "demonym": "Channel Islander",
-    "_loc": { "type": "Point", "coordinates": [-2.58333333, 49.46666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -2.58333333,
+        49.46666666
+      ]
+    },
     "population": 62431,
     "calling_c": "44",
     "cca3": "GGY",
@@ -1380,11 +2863,24 @@
     "capital_n": "Saint Peter Port",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "English",
+      "French"
+    ],
+    "currency_c_arr": [
+      "GBP"
+    ]
   },
   {
     "demonym": "Guinean",
-    "_loc": { "type": "Point", "coordinates": [-10, 11] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -10,
+        11
+      ]
+    },
     "population": 10824200,
     "calling_c": "224",
     "cca3": "GIN",
@@ -1395,11 +2891,32 @@
     "capital_n": "Conakry",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French",
+      "Fula; Fulah; Pulaar; Pular"
+    ],
+    "currency_c_arr": [
+      "GNF"
+    ],
+    "border_country_n_arr": [
+      "Côte d'Ivoire",
+      "Guinea-Bissau",
+      "Liberia",
+      "Mali",
+      "Senegal",
+      "Sierra Leone"
+    ]
   },
   {
     "demonym": "Guinea-Bissauan",
-    "_loc": { "type": "Point", "coordinates": [-15, 12] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -15,
+        12
+      ]
+    },
     "population": 1704000,
     "calling_c": "245",
     "cca3": "GNB",
@@ -1410,11 +2927,27 @@
     "capital_n": "Bissau",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Guinea",
+      "Senegal"
+    ]
   },
   {
     "demonym": "Guyanese",
-    "_loc": { "type": "Point", "coordinates": [-59, 5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -59,
+        5
+      ]
+    },
     "population": 784894,
     "calling_c": "592",
     "cca3": "GUY",
@@ -1425,11 +2958,28 @@
     "capital_n": "Georgetown",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "GYD"
+    ],
+    "border_country_n_arr": [
+      "Brazil",
+      "Suriname",
+      "Venezuela"
+    ]
   },
   {
     "demonym": "Haitian",
-    "_loc": { "type": "Point", "coordinates": [-72.41666666, 19] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -72.41666666,
+        19
+      ]
+    },
     "population": 10413211,
     "calling_c": "509",
     "cca3": "HTI",
@@ -1440,11 +2990,28 @@
     "capital_n": "Port-au-Prince",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "French",
+      "Haitian; Haitian Creole"
+    ],
+    "currency_c_arr": [
+      "HTG",
+      "USD"
+    ],
+    "border_country_n_arr": [
+      "Dominican Republic"
+    ]
   },
   {
     "demonym": "Heard and McDonald Islander",
-    "_loc": { "type": "Point", "coordinates": [72.51666666, -53.1] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        72.51666666,
+        -53.1
+      ]
+    },
     "population": -1,
     "cca3": "HMD",
     "ccn3": "334",
@@ -1452,11 +3019,23 @@
     "_nt_country_n": "Heard Island and McDonald Islands",
     "country_n": "Heard Island and McDonald Islands",
     "relevance": 0,
-    "continent_n": "Antarctica"
+    "continent_n": "Antarctica",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Italian",
-    "_loc": { "type": "Point", "coordinates": [12.45, 41.9] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        12.45,
+        41.9
+      ]
+    },
     "population": 800,
     "calling_c": "379",
     "cca3": "VAT",
@@ -1467,11 +3046,27 @@
     "capital_n": "Vatican City",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Italian",
+      "Latin"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Italy"
+    ]
   },
   {
     "demonym": "Honduran",
-    "_loc": { "type": "Point", "coordinates": [-86.5, 15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -86.5,
+        15
+      ]
+    },
     "population": 8555072,
     "calling_c": "504",
     "cca3": "HND",
@@ -1482,11 +3077,28 @@
     "capital_n": "Tegucigalpa",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "HNL"
+    ],
+    "border_country_n_arr": [
+      "Guatemala",
+      "El Salvador",
+      "Nicaragua"
+    ]
   },
   {
     "demonym": "Chinese",
-    "_loc": { "type": "Point", "coordinates": [114.16666666, 22.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        114.16666666,
+        22.25
+      ]
+    },
     "population": 7184000,
     "calling_c": "852",
     "cca3": "HKG",
@@ -1497,11 +3109,27 @@
     "capital_n": "Central",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "English",
+      "Chinese"
+    ],
+    "currency_c_arr": [
+      "HKD"
+    ],
+    "border_country_n_arr": [
+      "China"
+    ]
   },
   {
     "demonym": "Hungarian",
-    "_loc": { "type": "Point", "coordinates": [20, 47] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        20,
+        47
+      ]
+    },
     "population": 9906000,
     "calling_c": "36",
     "cca3": "HUN",
@@ -1512,11 +3140,32 @@
     "capital_n": "Budapest",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Hungarian"
+    ],
+    "currency_c_arr": [
+      "HUF"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "Croatia",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Icelander",
-    "_loc": { "type": "Point", "coordinates": [-18, 65] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -18,
+        65
+      ]
+    },
     "population": 325010,
     "calling_c": "354",
     "cca3": "ISL",
@@ -1527,11 +3176,23 @@
     "capital_n": "Reykjavík",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Icelandic"
+    ],
+    "currency_c_arr": [
+      "ISK"
+    ]
   },
   {
     "demonym": "Indian",
-    "_loc": { "type": "Point", "coordinates": [77, 20] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        77,
+        20
+      ]
+    },
     "population": 1236670000,
     "calling_c": "91",
     "cca3": "IND",
@@ -1542,11 +3203,34 @@
     "capital_n": "New Delhi",
     "relevance": 3,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Hindi",
+      "English"
+    ],
+    "currency_c_arr": [
+      "INR"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "Bangladesh",
+      "Bhutan",
+      "Myanmar",
+      "China",
+      "Nepal",
+      "Pakistan",
+      "Sri Lanka"
+    ]
   },
   {
     "demonym": "Indonesian",
-    "_loc": { "type": "Point", "coordinates": [120, -5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        120,
+        -5
+      ]
+    },
     "population": 237641326,
     "calling_c": "62",
     "cca3": "IDN",
@@ -1557,11 +3241,25 @@
     "capital_n": "Jakarta",
     "relevance": 2,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "IDR"
+    ],
+    "border_country_n_arr": [
+      "Timor-Leste",
+      "Malaysia",
+      "Papua New Guinea"
+    ]
   },
   {
     "demonym": "Iranian",
-    "_loc": { "type": "Point", "coordinates": [53, 32] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        53,
+        32
+      ]
+    },
     "population": 77068000,
     "calling_c": "98",
     "cca3": "IRN",
@@ -1572,11 +3270,32 @@
     "capital_n": "Tehrān",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Persian"
+    ],
+    "currency_c_arr": [
+      "IRR"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Iraq",
+      "Pakistan",
+      "Turkey",
+      "Turkmenistan"
+    ]
   },
   {
     "demonym": "Iraqi",
-    "_loc": { "type": "Point", "coordinates": [44, 33] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        44,
+        33
+      ]
+    },
     "population": 34035000,
     "calling_c": "964",
     "cca3": "IRQ",
@@ -1587,11 +3306,31 @@
     "capital_n": "Baghdad",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "IQD"
+    ],
+    "border_country_n_arr": [
+      "Iran",
+      "Jordan",
+      "Kuwait",
+      "Saudi Arabia",
+      "Syria",
+      "Turkey"
+    ]
   },
   {
     "demonym": "Irish",
-    "_loc": { "type": "Point", "coordinates": [-8, 53] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -8,
+        53
+      ]
+    },
     "population": -1,
     "calling_c": "353",
     "cca3": "IRL",
@@ -1602,11 +3341,27 @@
     "capital_n": "Dublin",
     "relevance": 1.2,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "English",
+      "Irish"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "United Kingdom"
+    ]
   },
   {
     "demonym": "Manx",
-    "_loc": { "type": "Point", "coordinates": [-4.5, 54.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -4.5,
+        54.25
+      ]
+    },
     "population": 84497,
     "calling_c": "44",
     "cca3": "IMN",
@@ -1617,11 +3372,24 @@
     "capital_n": "Douglas",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "English",
+      "Manx"
+    ],
+    "currency_c_arr": [
+      "GBP"
+    ]
   },
   {
     "demonym": "Israeli",
-    "_loc": { "type": "Point", "coordinates": [34.75, 31.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        34.75,
+        31.5
+      ]
+    },
     "population": 8092700,
     "calling_c": "972",
     "cca3": "ISR",
@@ -1632,11 +3400,30 @@
     "capital_n": "Jerusalem",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Hebrew (modern)",
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "ILS"
+    ],
+    "border_country_n_arr": [
+      "Egypt",
+      "Jordan",
+      "Lebanon",
+      "Syria"
+    ]
   },
   {
     "demonym": "Italian",
-    "_loc": { "type": "Point", "coordinates": [12.83333333, 42.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        12.83333333,
+        42.83333333
+      ]
+    },
     "population": 59829079,
     "calling_c": "39",
     "cca3": "ITA",
@@ -1647,11 +3434,31 @@
     "capital_n": "Rome",
     "relevance": 2,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Italian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "France",
+      "San Marino",
+      "Slovenia",
+      "Switzerland",
+      "Vatican City"
+    ]
   },
   {
     "demonym": "Jamaican",
-    "_loc": { "type": "Point", "coordinates": [-77.5, 18.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -77.5,
+        18.25
+      ]
+    },
     "population": 2711476,
     "calling_c": "1876",
     "cca3": "JAM",
@@ -1662,11 +3469,23 @@
     "capital_n": "Kingston",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "JMD"
+    ]
   },
   {
     "demonym": "Japanese",
-    "_loc": { "type": "Point", "coordinates": [138, 36] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        138,
+        36
+      ]
+    },
     "population": 127290000,
     "calling_c": "81",
     "cca3": "JPN",
@@ -1677,11 +3496,23 @@
     "capital_n": "Tokyo",
     "relevance": 2.5,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Japanese"
+    ],
+    "currency_c_arr": [
+      "JPY"
+    ]
   },
   {
     "demonym": "Channel Islander",
-    "_loc": { "type": "Point", "coordinates": [-2.16666666, 49.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -2.16666666,
+        49.25
+      ]
+    },
     "population": 97857,
     "calling_c": "44",
     "cca3": "JEY",
@@ -1692,11 +3523,24 @@
     "capital_n": "Saint Helier",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "English",
+      "French"
+    ],
+    "currency_c_arr": [
+      "GBP"
+    ]
   },
   {
     "demonym": "Jordanian",
-    "_loc": { "type": "Point", "coordinates": [36, 31] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        36,
+        31
+      ]
+    },
     "population": 6512600,
     "calling_c": "962",
     "cca3": "JOR",
@@ -1707,11 +3551,29 @@
     "capital_n": "Amman",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "JOD"
+    ],
+    "border_country_n_arr": [
+      "Iraq",
+      "Israel",
+      "Saudi Arabia",
+      "Syria"
+    ]
   },
   {
     "demonym": "Kazakhstani",
-    "_loc": { "type": "Point", "coordinates": [68, 48] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        68,
+        48
+      ]
+    },
     "population": 17099000,
     "calling_c": "7",
     "cca3": "KAZ",
@@ -1722,11 +3584,31 @@
     "capital_n": "Astana",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Central Asia"
+    "sub_region": "Central Asia",
+    "language_n_arr": [
+      "Kazakh",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "KZT"
+    ],
+    "border_country_n_arr": [
+      "China",
+      "Kyrgyzstan",
+      "Russia",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
   },
   {
     "demonym": "Kenyan",
-    "_loc": { "type": "Point", "coordinates": [38, 1] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        38,
+        1
+      ]
+    },
     "population": 44354000,
     "calling_c": "254",
     "cca3": "KEN",
@@ -1737,11 +3619,31 @@
     "capital_n": "Nairobi",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English",
+      "Swahili"
+    ],
+    "currency_c_arr": [
+      "KES"
+    ],
+    "border_country_n_arr": [
+      "Ethiopia",
+      "Somalia",
+      "South Sudan",
+      "Tanzania",
+      "Uganda"
+    ]
   },
   {
     "demonym": "I-Kiribati",
-    "_loc": { "type": "Point", "coordinates": [173, 1.41666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        173,
+        1.41666666
+      ]
+    },
     "population": 106461,
     "calling_c": "686",
     "cca3": "KIR",
@@ -1752,11 +3654,23 @@
     "capital_n": "South Tarawa",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Kuwaiti",
-    "_loc": { "type": "Point", "coordinates": [45.75, 29.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        45.75,
+        29.5
+      ]
+    },
     "population": 3582054,
     "calling_c": "965",
     "cca3": "KWT",
@@ -1767,11 +3681,27 @@
     "capital_n": "Kuwait City",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "KWD"
+    ],
+    "border_country_n_arr": [
+      "Iran",
+      "Saudi Arabia"
+    ]
   },
   {
     "demonym": "Kirghiz",
-    "_loc": { "type": "Point", "coordinates": [75, 41] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        75,
+        41
+      ]
+    },
     "population": 5551900,
     "calling_c": "996",
     "cca3": "KGZ",
@@ -1782,11 +3712,30 @@
     "capital_n": "Bishkek",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Central Asia"
+    "sub_region": "Central Asia",
+    "language_n_arr": [
+      "Kirghiz, Kyrgyz",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "KGS"
+    ],
+    "border_country_n_arr": [
+      "China",
+      "Kazakhstan",
+      "Tajikistan",
+      "Uzbekistan"
+    ]
   },
   {
     "demonym": "Laotian",
-    "_loc": { "type": "Point", "coordinates": [105, 18] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        105,
+        18
+      ]
+    },
     "population": 6580800,
     "calling_c": "856",
     "cca3": "LAO",
@@ -1797,11 +3746,27 @@
     "capital_n": "Vientiane",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "LAK"
+    ],
+    "border_country_n_arr": [
+      "Myanmar",
+      "Cambodia",
+      "China",
+      "Thailand",
+      "Vietnam"
+    ]
   },
   {
     "demonym": "Latvian",
-    "_loc": { "type": "Point", "coordinates": [25, 57] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        25,
+        57
+      ]
+    },
     "population": 2014000,
     "calling_c": "371",
     "cca3": "LVA",
@@ -1812,11 +3777,29 @@
     "capital_n": "Riga",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Latvian"
+    ],
+    "currency_c_arr": [
+      "LVL"
+    ],
+    "border_country_n_arr": [
+      "Belarus",
+      "Estonia",
+      "Lithuania",
+      "Russia"
+    ]
   },
   {
     "demonym": "Lebanese",
-    "_loc": { "type": "Point", "coordinates": [35.83333333, 33.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        35.83333333,
+        33.83333333
+      ]
+    },
     "population": 4822000,
     "calling_c": "961",
     "cca3": "LBN",
@@ -1827,11 +3810,28 @@
     "capital_n": "Beirut",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic",
+      "French"
+    ],
+    "currency_c_arr": [
+      "LBP"
+    ],
+    "border_country_n_arr": [
+      "Israel",
+      "Syria"
+    ]
   },
   {
     "demonym": "Mosotho",
-    "_loc": { "type": "Point", "coordinates": [28.5, -29.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        28.5,
+        -29.5
+      ]
+    },
     "population": 2074000,
     "calling_c": "266",
     "cca3": "LSO",
@@ -1842,11 +3842,28 @@
     "capital_n": "Maseru",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Southern Africa"
+    "sub_region": "Southern Africa",
+    "language_n_arr": [
+      "English",
+      "Southern Sotho"
+    ],
+    "currency_c_arr": [
+      "LSL",
+      "ZAR"
+    ],
+    "border_country_n_arr": [
+      "South Africa"
+    ]
   },
   {
     "demonym": "Liberian",
-    "_loc": { "type": "Point", "coordinates": [-9.5, 6.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -9.5,
+        6.5
+      ]
+    },
     "population": 4294000,
     "calling_c": "231",
     "cca3": "LBR",
@@ -1857,11 +3874,28 @@
     "capital_n": "Monrovia",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "LRD"
+    ],
+    "border_country_n_arr": [
+      "Guinea",
+      "Côte d'Ivoire",
+      "Sierra Leone"
+    ]
   },
   {
     "demonym": "Libyan",
-    "_loc": { "type": "Point", "coordinates": [17, 25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        17,
+        25
+      ]
+    },
     "population": 6202000,
     "calling_c": "218",
     "cca3": "LBY",
@@ -1872,11 +3906,31 @@
     "capital_n": "Tripoli",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "LYD"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Niger",
+      "Sudan",
+      "Tunisia"
+    ]
   },
   {
     "demonym": "Liechtensteiner",
-    "_loc": { "type": "Point", "coordinates": [9.53333333, 47.26666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        9.53333333,
+        47.26666666
+      ]
+    },
     "population": 36842,
     "calling_c": "423",
     "cca3": "LIE",
@@ -1887,11 +3941,27 @@
     "capital_n": "Vaduz",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "German"
+    ],
+    "currency_c_arr": [
+      "CHF"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "Switzerland"
+    ]
   },
   {
     "demonym": "Lithuanian",
-    "_loc": { "type": "Point", "coordinates": [24, 56] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        24,
+        56
+      ]
+    },
     "population": 2950684,
     "calling_c": "370",
     "cca3": "LTU",
@@ -1902,11 +3972,29 @@
     "capital_n": "Vilnius",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Lithuanian"
+    ],
+    "currency_c_arr": [
+      "LTL"
+    ],
+    "border_country_n_arr": [
+      "Belarus",
+      "Latvia",
+      "Poland",
+      "Russia"
+    ]
   },
   {
     "demonym": "Luxembourger",
-    "_loc": { "type": "Point", "coordinates": [6.16666666, 49.75] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        6.16666666,
+        49.75
+      ]
+    },
     "population": 537000,
     "calling_c": "352",
     "cca3": "LUX",
@@ -1917,11 +4005,30 @@
     "capital_n": "Luxembourg",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "French",
+      "German",
+      "Luxembourgish, Letzeburgesch"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Belgium",
+      "France",
+      "Germany"
+    ]
   },
   {
     "demonym": "Chinese",
-    "_loc": { "type": "Point", "coordinates": [113.55, 22.16666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        113.55,
+        22.16666666
+      ]
+    },
     "population": -1,
     "calling_c": "853",
     "cca3": "MAC",
@@ -1931,11 +4038,27 @@
     "country_n": "Macau",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Chinese",
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "MOP"
+    ],
+    "border_country_n_arr": [
+      "China"
+    ]
   },
   {
     "demonym": "Macedonian",
-    "_loc": { "type": "Point", "coordinates": [22, 41.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        22,
+        41.83333333
+      ]
+    },
     "population": -1,
     "calling_c": "389",
     "cca3": "MKD",
@@ -1946,11 +4069,30 @@
     "capital_n": "Skopje",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Macedonian"
+    ],
+    "currency_c_arr": [
+      "MKD"
+    ],
+    "border_country_n_arr": [
+      "Albania",
+      "Bulgaria",
+      "Greece",
+      "Republic of Kosovo",
+      "Serbia"
+    ]
   },
   {
     "demonym": "Malagasy",
-    "_loc": { "type": "Point", "coordinates": [47, -20] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        47,
+        -20
+      ]
+    },
     "population": 20696070,
     "calling_c": "261",
     "cca3": "MDG",
@@ -1961,11 +4103,24 @@
     "capital_n": "Antananarivo",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "French",
+      "Malagasy"
+    ],
+    "currency_c_arr": [
+      "MGA"
+    ]
   },
   {
     "demonym": "Malawian",
-    "_loc": { "type": "Point", "coordinates": [34, -13.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        34,
+        -13.5
+      ]
+    },
     "population": 16363000,
     "calling_c": "265",
     "cca3": "MWI",
@@ -1976,11 +4131,29 @@
     "capital_n": "Lilongwe",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English",
+      "Chichewa; Chewa; Nyanja"
+    ],
+    "currency_c_arr": [
+      "MWK"
+    ],
+    "border_country_n_arr": [
+      "Mozambique",
+      "Tanzania",
+      "Zambia"
+    ]
   },
   {
     "demonym": "Malaysian",
-    "_loc": { "type": "Point", "coordinates": [112.5, 2.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        112.5,
+        2.5
+      ]
+    },
     "population": 29793600,
     "calling_c": "60",
     "cca3": "MYS",
@@ -1991,11 +4164,25 @@
     "capital_n": "Kuala Lumpur",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "MYR"
+    ],
+    "border_country_n_arr": [
+      "Brunei",
+      "Indonesia",
+      "Thailand"
+    ]
   },
   {
     "demonym": "Maldivan",
-    "_loc": { "type": "Point", "coordinates": [73, 3.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        73,
+        3.25
+      ]
+    },
     "population": 317280,
     "calling_c": "960",
     "cca3": "MDV",
@@ -2006,11 +4193,23 @@
     "capital_n": "Malé",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Divehi; Dhivehi; Maldivian;"
+    ],
+    "currency_c_arr": [
+      "MVR"
+    ]
   },
   {
     "demonym": "Malian",
-    "_loc": { "type": "Point", "coordinates": [-4, 17] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -4,
+        17
+      ]
+    },
     "population": 15302000,
     "calling_c": "223",
     "cca3": "MLI",
@@ -2021,11 +4220,32 @@
     "capital_n": "Bamako",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Burkina Faso",
+      "Guinea",
+      "Côte d'Ivoire",
+      "Mauritania",
+      "Niger",
+      "Senegal"
+    ]
   },
   {
     "demonym": "Maltese",
-    "_loc": { "type": "Point", "coordinates": [14.58333333, 35.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        14.58333333,
+        35.83333333
+      ]
+    },
     "population": 416055,
     "calling_c": "356",
     "cca3": "MLT",
@@ -2036,11 +4256,24 @@
     "capital_n": "Valletta",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Maltese",
+      "English"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Marshallese",
-    "_loc": { "type": "Point", "coordinates": [168, 9] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        168,
+        9
+      ]
+    },
     "population": 56086,
     "calling_c": "692",
     "cca3": "MHL",
@@ -2051,11 +4284,24 @@
     "capital_n": "Majuro",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English",
+      "Marshallese"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "French",
-    "_loc": { "type": "Point", "coordinates": [-61, 14.666667] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61,
+        14.666667
+      ]
+    },
     "population": 394173,
     "calling_c": "596",
     "cca3": "MTQ",
@@ -2066,11 +4312,23 @@
     "capital_n": "Fort-de-France",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Mauritanian",
-    "_loc": { "type": "Point", "coordinates": [-12, 20] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -12,
+        20
+      ]
+    },
     "population": 3461041,
     "calling_c": "222",
     "cca3": "MRT",
@@ -2081,11 +4339,30 @@
     "capital_n": "Nouakchott",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "Arabic",
+      "French"
+    ],
+    "currency_c_arr": [
+      "MRO"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Mali",
+      "Senegal",
+      "Western Sahara"
+    ]
   },
   {
     "demonym": "Mauritian",
-    "_loc": { "type": "Point", "coordinates": [57.55, -20.28333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        57.55,
+        -20.28333333
+      ]
+    },
     "population": 1257900,
     "calling_c": "230",
     "cca3": "MUS",
@@ -2096,11 +4373,23 @@
     "capital_n": "Port Louis",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "MUR"
+    ]
   },
   {
     "demonym": "French",
-    "_loc": { "type": "Point", "coordinates": [45.16666666, -12.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        45.16666666,
+        -12.83333333
+      ]
+    },
     "population": 212600,
     "calling_c": "262",
     "cca3": "MYT",
@@ -2111,11 +4400,23 @@
     "capital_n": "Mamoudzou",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Mexican",
-    "_loc": { "type": "Point", "coordinates": [-102, 23] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -102,
+        23
+      ]
+    },
     "population": 118395054,
     "calling_c": "52",
     "cca3": "MEX",
@@ -2126,11 +4427,28 @@
     "capital_n": "Mexico City",
     "relevance": 1.5,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "MXN"
+    ],
+    "border_country_n_arr": [
+      "Belize",
+      "Guatemala",
+      "United States"
+    ]
   },
   {
     "demonym": "Micronesian",
-    "_loc": { "type": "Point", "coordinates": [158.25, 6.91666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        158.25,
+        6.91666666
+      ]
+    },
     "population": -1,
     "calling_c": "691",
     "cca3": "FSM",
@@ -2141,11 +4459,23 @@
     "capital_n": "Palikir",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Moldovan",
-    "_loc": { "type": "Point", "coordinates": [29, 47] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        29,
+        47
+      ]
+    },
     "population": 3559500,
     "calling_c": "373",
     "cca3": "MDA",
@@ -2156,11 +4486,27 @@
     "capital_n": "Chișinău",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Romanian, Moldavian, Moldovan"
+    ],
+    "currency_c_arr": [
+      "MDL"
+    ],
+    "border_country_n_arr": [
+      "Romania",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Monegasque",
-    "_loc": { "type": "Point", "coordinates": [7.4, 43.73333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        7.4,
+        43.73333333
+      ]
+    },
     "population": 36136,
     "calling_c": "377",
     "cca3": "MCO",
@@ -2171,11 +4517,26 @@
     "capital_n": "Monaco",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "France"
+    ]
   },
   {
     "demonym": "Mongolian",
-    "_loc": { "type": "Point", "coordinates": [105, 46] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        105,
+        46
+      ]
+    },
     "population": 2754685,
     "calling_c": "976",
     "cca3": "MNG",
@@ -2186,11 +4547,27 @@
     "capital_n": "Ulan Bator",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Mongolian"
+    ],
+    "currency_c_arr": [
+      "MNT"
+    ],
+    "border_country_n_arr": [
+      "China",
+      "Russia"
+    ]
   },
   {
     "demonym": "Montenegrin",
-    "_loc": { "type": "Point", "coordinates": [19.3, 42.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        19.3,
+        42.5
+      ]
+    },
     "population": 620029,
     "calling_c": "382",
     "cca3": "MNE",
@@ -2201,11 +4578,33 @@
     "capital_n": "Podgorica",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Serbian",
+      "Bosnian",
+      "Albanian",
+      "Croatian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Republic of Kosovo",
+      "Serbia"
+    ]
   },
   {
     "demonym": "Montserratian",
-    "_loc": { "type": "Point", "coordinates": [-62.2, 16.75] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -62.2,
+        16.75
+      ]
+    },
     "population": 4922,
     "calling_c": "1664",
     "cca3": "MSR",
@@ -2216,11 +4615,23 @@
     "capital_n": "Plymouth",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Moroccan",
-    "_loc": { "type": "Point", "coordinates": [-5, 32] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -5,
+        32
+      ]
+    },
     "population": 33087700,
     "calling_c": "212",
     "cca3": "MAR",
@@ -2231,11 +4642,28 @@
     "capital_n": "Rabat",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "MAD"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Western Sahara",
+      "Spain"
+    ]
   },
   {
     "demonym": "Mozambican",
-    "_loc": { "type": "Point", "coordinates": [35, -18.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        35,
+        -18.25
+      ]
+    },
     "population": 23700715,
     "calling_c": "258",
     "cca3": "MOZ",
@@ -2246,11 +4674,31 @@
     "capital_n": "Maputo",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "MZN"
+    ],
+    "border_country_n_arr": [
+      "Malawi",
+      "South Africa",
+      "Swaziland",
+      "Tanzania",
+      "Zambia",
+      "Zimbabwe"
+    ]
   },
   {
     "demonym": "Myanmarian",
-    "_loc": { "type": "Point", "coordinates": [98, 22] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        98,
+        22
+      ]
+    },
     "population": -1,
     "calling_c": "95",
     "cca3": "MMR",
@@ -2261,11 +4709,20 @@
     "capital_n": "Nay Pyi Taw",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "MMK"
+    ]
   },
   {
     "demonym": "Namibian",
-    "_loc": { "type": "Point", "coordinates": [17, -22] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        17,
+        -22
+      ]
+    },
     "population": 2113077,
     "calling_c": "264",
     "cca3": "NAM",
@@ -2276,11 +4733,31 @@
     "capital_n": "Windhoek",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Southern Africa"
+    "sub_region": "Southern Africa",
+    "language_n_arr": [
+      "English",
+      "Afrikaans"
+    ],
+    "currency_c_arr": [
+      "NAD",
+      "ZAR"
+    ],
+    "border_country_n_arr": [
+      "Angola",
+      "Botswana",
+      "South Africa",
+      "Zambia"
+    ]
   },
   {
     "demonym": "Nauruan",
-    "_loc": { "type": "Point", "coordinates": [166.91666666, -0.53333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        166.91666666,
+        -0.53333333
+      ]
+    },
     "population": 9945,
     "calling_c": "674",
     "cca3": "NRU",
@@ -2291,11 +4768,24 @@
     "capital_n": "Yaren",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English",
+      "Nauru"
+    ],
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Nepalese",
-    "_loc": { "type": "Point", "coordinates": [84, 28] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        84,
+        28
+      ]
+    },
     "population": 26494504,
     "calling_c": "977",
     "cca3": "NPL",
@@ -2306,11 +4796,27 @@
     "capital_n": "Kathmandu",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Nepali"
+    ],
+    "currency_c_arr": [
+      "NPR"
+    ],
+    "border_country_n_arr": [
+      "China",
+      "India"
+    ]
   },
   {
     "demonym": "Dutch",
-    "_loc": { "type": "Point", "coordinates": [5.75, 52.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        5.75,
+        52.5
+      ]
+    },
     "population": 16807300,
     "calling_c": "31",
     "cca3": "NLD",
@@ -2321,11 +4827,27 @@
     "capital_n": "Amsterdam",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "Dutch"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Belgium",
+      "Germany"
+    ]
   },
   {
     "demonym": "New Caledonian",
-    "_loc": { "type": "Point", "coordinates": [165.5, -21.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        165.5,
+        -21.5
+      ]
+    },
     "population": 258958,
     "calling_c": "687",
     "cca3": "NCL",
@@ -2336,11 +4858,23 @@
     "capital_n": "Nouméa",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Melanesia"
+    "sub_region": "Melanesia",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XPF"
+    ]
   },
   {
     "demonym": "New Zealander",
-    "_loc": { "type": "Point", "coordinates": [174, -41] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        174,
+        -41
+      ]
+    },
     "population": 4478810,
     "calling_c": "64",
     "cca3": "NZL",
@@ -2351,11 +4885,20 @@
     "capital_n": "Wellington",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Australia and New Zealand"
+    "sub_region": "Australia and New Zealand",
+    "currency_c_arr": [
+      "NZD"
+    ]
   },
   {
     "demonym": "Nicaraguan",
-    "_loc": { "type": "Point", "coordinates": [-85, 13] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -85,
+        13
+      ]
+    },
     "population": 6071045,
     "calling_c": "505",
     "cca3": "NIC",
@@ -2366,11 +4909,27 @@
     "capital_n": "Managua",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "NIO"
+    ],
+    "border_country_n_arr": [
+      "Costa Rica",
+      "Honduras"
+    ]
   },
   {
     "demonym": "Nigerian",
-    "_loc": { "type": "Point", "coordinates": [8, 16] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        8,
+        16
+      ]
+    },
     "population": 17129076,
     "calling_c": "227",
     "cca3": "NER",
@@ -2381,11 +4940,32 @@
     "capital_n": "Niamey",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Chad",
+      "Libya",
+      "Mali",
+      "Nigeria"
+    ]
   },
   {
     "demonym": "Nigerian",
-    "_loc": { "type": "Point", "coordinates": [8, 10] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        8,
+        10
+      ]
+    },
     "population": 173615000,
     "calling_c": "234",
     "cca3": "NGA",
@@ -2396,11 +4976,29 @@
     "capital_n": "Abuja",
     "relevance": 1.5,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "NGN"
+    ],
+    "border_country_n_arr": [
+      "Benin",
+      "Cameroon",
+      "Chad",
+      "Niger"
+    ]
   },
   {
     "demonym": "Niuean",
-    "_loc": { "type": "Point", "coordinates": [-169.86666666, -19.03333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -169.86666666,
+        -19.03333333
+      ]
+    },
     "population": 1613,
     "calling_c": "683",
     "cca3": "NIU",
@@ -2411,11 +5009,23 @@
     "capital_n": "Alofi",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "NZD"
+    ]
   },
   {
     "demonym": "Norfolk Islander",
-    "_loc": { "type": "Point", "coordinates": [167.95, -29.03333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        167.95,
+        -29.03333333
+      ]
+    },
     "population": 2302,
     "calling_c": "672",
     "cca3": "NFK",
@@ -2426,11 +5036,20 @@
     "capital_n": "Kingston",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Australia and New Zealand"
+    "sub_region": "Australia and New Zealand",
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "North Korean",
-    "_loc": { "type": "Point", "coordinates": [127, 40] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        127,
+        40
+      ]
+    },
     "population": 24895000,
     "calling_c": "850",
     "cca3": "PRK",
@@ -2441,11 +5060,28 @@
     "capital_n": "Pyongyang",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Korean"
+    ],
+    "currency_c_arr": [
+      "KPW"
+    ],
+    "border_country_n_arr": [
+      "China",
+      "South Korea",
+      "Russia"
+    ]
   },
   {
     "demonym": "American",
-    "_loc": { "type": "Point", "coordinates": [145.75, 15.2] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        145.75,
+        15.2
+      ]
+    },
     "population": 53883,
     "calling_c": "1670",
     "cca3": "MNP",
@@ -2456,11 +5092,24 @@
     "capital_n": "Saipan",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English",
+      "Chamorro"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Norwegian",
-    "_loc": { "type": "Point", "coordinates": [10, 62] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        10,
+        62
+      ]
+    },
     "population": 5077798,
     "calling_c": "47",
     "cca3": "NOR",
@@ -2471,11 +5120,28 @@
     "capital_n": "Oslo",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Norwegian"
+    ],
+    "currency_c_arr": [
+      "NOK"
+    ],
+    "border_country_n_arr": [
+      "Finland",
+      "Sweden",
+      "Russia"
+    ]
   },
   {
     "demonym": "Omani",
-    "_loc": { "type": "Point", "coordinates": [57, 21] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        57,
+        21
+      ]
+    },
     "population": 3929000,
     "calling_c": "968",
     "cca3": "OMN",
@@ -2486,11 +5152,28 @@
     "capital_n": "Muscat",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "OMR"
+    ],
+    "border_country_n_arr": [
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
   },
   {
     "demonym": "Pakistani",
-    "_loc": { "type": "Point", "coordinates": [70, 30] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        70,
+        30
+      ]
+    },
     "population": 184845000,
     "calling_c": "92",
     "cca3": "PAK",
@@ -2501,11 +5184,30 @@
     "capital_n": "Islamabad",
     "relevance": 2,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "English",
+      "Urdu"
+    ],
+    "currency_c_arr": [
+      "PKR"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "China",
+      "India",
+      "Iran"
+    ]
   },
   {
     "demonym": "Palauan",
-    "_loc": { "type": "Point", "coordinates": [134.5, 7.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        134.5,
+        7.5
+      ]
+    },
     "population": 20901,
     "calling_c": "680",
     "cca3": "PLW",
@@ -2516,11 +5218,23 @@
     "capital_n": "Melekeok",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Micronesia"
+    "sub_region": "Micronesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Palestinian",
-    "_loc": { "type": "Point", "coordinates": [35.2, 31.9] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        35.2,
+        31.9
+      ]
+    },
     "population": -1,
     "calling_c": "970",
     "cca3": "PSE",
@@ -2531,11 +5245,30 @@
     "capital_n": "Ramallah",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic",
+      "Hebrew (modern)",
+      "English"
+    ],
+    "currency_c_arr": [
+      "ILS"
+    ],
+    "border_country_n_arr": [
+      "Israel",
+      "Egypt",
+      "Jordan"
+    ]
   },
   {
     "demonym": "Panamanian",
-    "_loc": { "type": "Point", "coordinates": [-80, 9] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -80,
+        9
+      ]
+    },
     "population": 3405813,
     "calling_c": "507",
     "cca3": "PAN",
@@ -2546,11 +5279,28 @@
     "capital_n": "Panama City",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Central America"
+    "sub_region": "Central America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "PAB",
+      "USD"
+    ],
+    "border_country_n_arr": [
+      "Colombia",
+      "Costa Rica"
+    ]
   },
   {
     "demonym": "Papua New Guinean",
-    "_loc": { "type": "Point", "coordinates": [147, -6] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        147,
+        -6
+      ]
+    },
     "population": 7059653,
     "calling_c": "675",
     "cca3": "PNG",
@@ -2561,11 +5311,26 @@
     "capital_n": "Port Moresby",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Melanesia"
+    "sub_region": "Melanesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "PGK"
+    ],
+    "border_country_n_arr": [
+      "Indonesia"
+    ]
   },
   {
     "demonym": "Paraguayan",
-    "_loc": { "type": "Point", "coordinates": [-58, -23] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -58,
+        -23
+      ]
+    },
     "population": 6783374,
     "calling_c": "595",
     "cca3": "PRY",
@@ -2576,11 +5341,29 @@
     "capital_n": "Asunción",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish",
+      "Guaraní"
+    ],
+    "currency_c_arr": [
+      "PYG"
+    ],
+    "border_country_n_arr": [
+      "Argentina",
+      "Bolivia",
+      "Brazil"
+    ]
   },
   {
     "demonym": "Peruvian",
-    "_loc": { "type": "Point", "coordinates": [-76, -10] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -76,
+        -10
+      ]
+    },
     "population": 30475144,
     "calling_c": "51",
     "cca3": "PER",
@@ -2591,11 +5374,30 @@
     "capital_n": "Lima",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "PEN"
+    ],
+    "border_country_n_arr": [
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador"
+    ]
   },
   {
     "demonym": "Filipino",
-    "_loc": { "type": "Point", "coordinates": [122, 13] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        122,
+        13
+      ]
+    },
     "population": 98678000,
     "calling_c": "63",
     "cca3": "PHL",
@@ -2606,11 +5408,20 @@
     "capital_n": "Manila",
     "relevance": 1.5,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "PHP"
+    ]
   },
   {
     "demonym": "Pitcairn Islander",
-    "_loc": { "type": "Point", "coordinates": [-130.1, -25.06666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -130.1,
+        -25.06666666
+      ]
+    },
     "population": 56,
     "calling_c": "64",
     "cca3": "PCN",
@@ -2621,11 +5432,23 @@
     "capital_n": "Adamstown",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "NZD"
+    ]
   },
   {
     "demonym": "Polish",
-    "_loc": { "type": "Point", "coordinates": [20, 52] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        20,
+        52
+      ]
+    },
     "population": 38533299,
     "calling_c": "48",
     "cca3": "POL",
@@ -2636,11 +5459,32 @@
     "capital_n": "Warsaw",
     "relevance": 1.25,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Polish"
+    ],
+    "currency_c_arr": [
+      "PLN"
+    ],
+    "border_country_n_arr": [
+      "Belarus",
+      "Czech Republic",
+      "Germany",
+      "Lithuania",
+      "Russia",
+      "Slovakia",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Portuguese",
-    "_loc": { "type": "Point", "coordinates": [-8, 39.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -8,
+        39.5
+      ]
+    },
     "population": 10562178,
     "calling_c": "351",
     "cca3": "PRT",
@@ -2651,11 +5495,26 @@
     "capital_n": "Lisbon",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Spain"
+    ]
   },
   {
     "demonym": "Puerto Rican",
-    "_loc": { "type": "Point", "coordinates": [-66.5, 18.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -66.5,
+        18.25
+      ]
+    },
     "population": 3667084,
     "calling_c": "1",
     "cca3": "PRI",
@@ -2666,11 +5525,24 @@
     "capital_n": "San Juan",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "Spanish",
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Qatari",
-    "_loc": { "type": "Point", "coordinates": [51.25, 25.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        51.25,
+        25.5
+      ]
+    },
     "population": 2024707,
     "calling_c": "974",
     "cca3": "QAT",
@@ -2681,11 +5553,26 @@
     "capital_n": "Doha",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "QAR"
+    ],
+    "border_country_n_arr": [
+      "Saudi Arabia"
+    ]
   },
   {
     "demonym": "Kosovar",
-    "_loc": { "type": "Point", "coordinates": [21.166667, 42.666667] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        21.166667,
+        42.666667
+      ]
+    },
     "population": 1733842,
     "calling_c": "381",
     "cca3": "KOS",
@@ -2696,11 +5583,30 @@
     "capital_n": "Pristina",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Albanian",
+      "Serbian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Albania",
+      "Macedonia",
+      "Montenegro",
+      "Serbia"
+    ]
   },
   {
     "demonym": "French",
-    "_loc": { "type": "Point", "coordinates": [55.5, -21.15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        55.5,
+        -21.15
+      ]
+    },
     "population": 821136,
     "calling_c": "262",
     "cca3": "REU",
@@ -2711,11 +5617,23 @@
     "capital_n": "Saint-Denis",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Romanian",
-    "_loc": { "type": "Point", "coordinates": [25, 46] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        25,
+        46
+      ]
+    },
     "population": 20121641,
     "calling_c": "40",
     "cca3": "ROU",
@@ -2726,11 +5644,30 @@
     "capital_n": "Bucharest",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Romanian, Moldavian, Moldovan"
+    ],
+    "currency_c_arr": [
+      "RON"
+    ],
+    "border_country_n_arr": [
+      "Bulgaria",
+      "Hungary",
+      "Moldova",
+      "Serbia",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Russian",
-    "_loc": { "type": "Point", "coordinates": [100, 60] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        100,
+        60
+      ]
+    },
     "population": 143500000,
     "calling_c": "7",
     "cca3": "RUS",
@@ -2741,11 +5678,39 @@
     "capital_n": "Moscow",
     "relevance": 2.5,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "RUB"
+    ],
+    "border_country_n_arr": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "North Korea",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Rwandan",
-    "_loc": { "type": "Point", "coordinates": [30, -2] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        -2
+      ]
+    },
     "population": 10537222,
     "calling_c": "250",
     "cca3": "RWA",
@@ -2756,11 +5721,31 @@
     "capital_n": "Kigali",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Kinyarwanda",
+      "English",
+      "French"
+    ],
+    "currency_c_arr": [
+      "RWF"
+    ],
+    "border_country_n_arr": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Tanzania",
+      "Uganda"
+    ]
   },
   {
     "demonym": "Saint Barthélemy Islander",
-    "_loc": { "type": "Point", "coordinates": [-63.41666666, 18.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -63.41666666,
+        18.5
+      ]
+    },
     "population": 8938,
     "calling_c": "590",
     "cca3": "BLM",
@@ -2771,11 +5756,23 @@
     "capital_n": "Gustavia",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Saint Helenian",
-    "_loc": { "type": "Point", "coordinates": [-5.7, -15.95] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -5.7,
+        -15.95
+      ]
+    },
     "population": -1,
     "calling_c": "290",
     "cca3": "SHN",
@@ -2786,11 +5783,23 @@
     "capital_n": "Jamestown",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "SHP"
+    ]
   },
   {
     "demonym": "Kittian and Nevisian",
-    "_loc": { "type": "Point", "coordinates": [-62.75, 17.33333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -62.75,
+        17.33333333
+      ]
+    },
     "population": 54000,
     "calling_c": "1869",
     "cca3": "KNA",
@@ -2801,11 +5810,23 @@
     "capital_n": "Basseterre",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Saint Lucian",
-    "_loc": { "type": "Point", "coordinates": [-60.96666666, 13.88333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -60.96666666,
+        13.88333333
+      ]
+    },
     "population": 166526,
     "calling_c": "1758",
     "cca3": "LCA",
@@ -2816,11 +5837,23 @@
     "capital_n": "Castries",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Saint Martin Islander",
-    "_loc": { "type": "Point", "coordinates": [-63.95, 18.08333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -63.95,
+        18.08333333
+      ]
+    },
     "population": -1,
     "calling_c": "590",
     "cca3": "MAF",
@@ -2831,11 +5864,29 @@
     "capital_n": "Marigot",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English",
+      "French",
+      "Dutch"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Sint Maarten",
+      "Netherlands"
+    ]
   },
   {
     "demonym": "French",
-    "_loc": { "type": "Point", "coordinates": [-56.33333333, 46.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -56.33333333,
+        46.83333333
+      ]
+    },
     "population": 6081,
     "calling_c": "508",
     "cca3": "SPM",
@@ -2846,11 +5897,23 @@
     "capital_n": "Saint-Pierre",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Northern America"
+    "sub_region": "Northern America",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ]
   },
   {
     "demonym": "Saint Vincentian",
-    "_loc": { "type": "Point", "coordinates": [-61.2, 13.25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61.2,
+        13.25
+      ]
+    },
     "population": 109000,
     "calling_c": "1784",
     "cca3": "VCT",
@@ -2861,11 +5924,23 @@
     "capital_n": "Kingstown",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "XCD"
+    ]
   },
   {
     "demonym": "Samoan",
-    "_loc": { "type": "Point", "coordinates": [-172.33333333, -13.58333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -172.33333333,
+        -13.58333333
+      ]
+    },
     "population": 187820,
     "calling_c": "685",
     "cca3": "WSM",
@@ -2876,11 +5951,24 @@
     "capital_n": "Apia",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "Samoan",
+      "English"
+    ],
+    "currency_c_arr": [
+      "WST"
+    ]
   },
   {
     "demonym": "Sammarinese",
-    "_loc": { "type": "Point", "coordinates": [12.41666666, 43.76666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        12.41666666,
+        43.76666666
+      ]
+    },
     "population": 32509,
     "calling_c": "378",
     "cca3": "SMR",
@@ -2891,11 +5979,26 @@
     "capital_n": "City of San Marino",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Italian"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Italy"
+    ]
   },
   {
     "demonym": "Sao Tomean",
-    "_loc": { "type": "Point", "coordinates": [7, 1] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        7,
+        1
+      ]
+    },
     "population": 187356,
     "calling_c": "239",
     "cca3": "STP",
@@ -2906,11 +6009,23 @@
     "capital_n": "São Tomé",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "language_n_arr": [
+      "Portuguese"
+    ],
+    "currency_c_arr": [
+      "STD"
+    ]
   },
   {
     "demonym": "Saudi Arabian",
-    "_loc": { "type": "Point", "coordinates": [45, 25] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        45,
+        25
+      ]
+    },
     "population": 29994272,
     "calling_c": "966",
     "cca3": "SAU",
@@ -2921,11 +6036,32 @@
     "capital_n": "Riyadh",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "SAR"
+    ],
+    "border_country_n_arr": [
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "United Arab Emirates",
+      "Yemen"
+    ]
   },
   {
     "demonym": "Senegalese",
-    "_loc": { "type": "Point", "coordinates": [-14, 14] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -14,
+        14
+      ]
+    },
     "population": 13567338,
     "calling_c": "221",
     "cca3": "SEN",
@@ -2936,11 +6072,30 @@
     "capital_n": "Dakar",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Gambia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Mali",
+      "Mauritania"
+    ]
   },
   {
     "demonym": "Serbian",
-    "_loc": { "type": "Point", "coordinates": [21, 44] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        21,
+        44
+      ]
+    },
     "population": 7181505,
     "calling_c": "381",
     "cca3": "SRB",
@@ -2951,11 +6106,33 @@
     "capital_n": "Belgrade",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Serbian"
+    ],
+    "currency_c_arr": [
+      "RSD"
+    ],
+    "border_country_n_arr": [
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "Republic of Kosovo",
+      "Macedonia",
+      "Montenegro",
+      "Romania"
+    ]
   },
   {
     "demonym": "Seychellois",
-    "_loc": { "type": "Point", "coordinates": [55.66666666, -4.58333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        55.66666666,
+        -4.58333333
+      ]
+    },
     "population": 90945,
     "calling_c": "248",
     "cca3": "SYC",
@@ -2966,11 +6143,24 @@
     "capital_n": "Victoria",
     "relevance": 0.5,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "French",
+      "English"
+    ],
+    "currency_c_arr": [
+      "SCR"
+    ]
   },
   {
     "demonym": "Sierra Leonean",
-    "_loc": { "type": "Point", "coordinates": [-11.5, 8.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -11.5,
+        8.5
+      ]
+    },
     "population": 6190280,
     "calling_c": "232",
     "cca3": "SLE",
@@ -2981,11 +6171,27 @@
     "capital_n": "Freetown",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "SLL"
+    ],
+    "border_country_n_arr": [
+      "Guinea",
+      "Liberia"
+    ]
   },
   {
     "demonym": "Singaporean",
-    "_loc": { "type": "Point", "coordinates": [103.8, 1.36666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        103.8,
+        1.36666666
+      ]
+    },
     "population": 5399200,
     "calling_c": "65",
     "cca3": "SGP",
@@ -2996,11 +6202,26 @@
     "capital_n": "Singapore",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "language_n_arr": [
+      "English",
+      "Malay",
+      "Tamil",
+      "Chinese"
+    ],
+    "currency_c_arr": [
+      "SGD"
+    ]
   },
   {
     "demonym": "Dutch",
-    "_loc": { "type": "Point", "coordinates": [-63.05, 18.033333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -63.05,
+        18.033333
+      ]
+    },
     "population": 37429,
     "calling_c": "1721",
     "cca3": "SXM",
@@ -3011,11 +6232,23 @@
     "capital_n": "Philipsburg",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "currency_c_arr": [
+      "ANG"
+    ],
+    "border_country_n_arr": [
+      "Saint Martin"
+    ]
   },
   {
     "demonym": "Slovak",
-    "_loc": { "type": "Point", "coordinates": [19.5, 48.66666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        19.5,
+        48.66666666
+      ]
+    },
     "population": 5412008,
     "calling_c": "421",
     "cca3": "SVK",
@@ -3026,11 +6259,30 @@
     "capital_n": "Bratislava",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Slovak"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "Czech Republic",
+      "Hungary",
+      "Poland",
+      "Ukraine"
+    ]
   },
   {
     "demonym": "Slovene",
-    "_loc": { "type": "Point", "coordinates": [14.81666666, 46.11666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        14.81666666,
+        46.11666666
+      ]
+    },
     "population": 2061405,
     "calling_c": "386",
     "cca3": "SVN",
@@ -3041,11 +6293,29 @@
     "capital_n": "Ljubljana",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Slovene"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "Croatia",
+      "Italy",
+      "Hungary"
+    ]
   },
   {
     "demonym": "Solomon Islander",
-    "_loc": { "type": "Point", "coordinates": [159, -8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        159,
+        -8
+      ]
+    },
     "population": 561000,
     "calling_c": "677",
     "cca3": "SLB",
@@ -3056,11 +6326,20 @@
     "capital_n": "Honiara",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Melanesia"
+    "sub_region": "Melanesia",
+    "language_n_arr": [
+      "English"
+    ]
   },
   {
     "demonym": "Somali",
-    "_loc": { "type": "Point", "coordinates": [49, 10] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        49,
+        10
+      ]
+    },
     "population": 10496000,
     "calling_c": "252",
     "cca3": "SOM",
@@ -3071,11 +6350,29 @@
     "capital_n": "Mogadishu",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Somali",
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "SOS"
+    ],
+    "border_country_n_arr": [
+      "Djibouti",
+      "Ethiopia",
+      "Kenya"
+    ]
   },
   {
     "demonym": "South African",
-    "_loc": { "type": "Point", "coordinates": [24, -29] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        24,
+        -29
+      ]
+    },
     "population": 52981991,
     "calling_c": "27",
     "cca3": "ZAF",
@@ -3086,11 +6383,40 @@
     "capital_n": "Cape Town",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Southern Africa"
+    "sub_region": "Southern Africa",
+    "language_n_arr": [
+      "Afrikaans",
+      "English",
+      "South Ndebele",
+      "Southern Sotho",
+      "Swati",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "currency_c_arr": [
+      "ZAR"
+    ],
+    "border_country_n_arr": [
+      "Botswana",
+      "Lesotho",
+      "Mozambique",
+      "Namibia",
+      "Swaziland",
+      "Zimbabwe"
+    ]
   },
   {
     "demonym": "South Georgia and the South Sandwich Islander",
-    "_loc": { "type": "Point", "coordinates": [-37, -54.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -37,
+        -54.5
+      ]
+    },
     "population": -1,
     "calling_c": "500",
     "cca3": "SGS",
@@ -3101,11 +6427,23 @@
     "capital_n": "King Edward Point",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "GBP"
+    ]
   },
   {
     "demonym": "South Korean",
-    "_loc": { "type": "Point", "coordinates": [127.5, 37] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        127.5,
+        37
+      ]
+    },
     "population": 50219669,
     "calling_c": "82",
     "cca3": "KOR",
@@ -3116,11 +6454,26 @@
     "capital_n": "Seoul",
     "relevance": 1.5,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Korean"
+    ],
+    "currency_c_arr": [
+      "KRW"
+    ],
+    "border_country_n_arr": [
+      "North Korea"
+    ]
   },
   {
     "demonym": "South Sudanese",
-    "_loc": { "type": "Point", "coordinates": [30, 7] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        7
+      ]
+    },
     "population": 11296000,
     "calling_c": "211",
     "cca3": "SSD",
@@ -3131,11 +6484,28 @@
     "capital_n": "Juba",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Middle Africa"
+    "sub_region": "Middle Africa",
+    "currency_c_arr": [
+      "SSP"
+    ],
+    "border_country_n_arr": [
+      "Central African Republic",
+      "Democratic Republic of the Congo",
+      "Ethiopia",
+      "Kenya",
+      "Sudan",
+      "Uganda"
+    ]
   },
   {
     "demonym": "Spanish",
-    "_loc": { "type": "Point", "coordinates": [-4, 40] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -4,
+        40
+      ]
+    },
     "population": 46704314,
     "calling_c": "34",
     "cca3": "ESP",
@@ -3146,11 +6516,30 @@
     "capital_n": "Madrid",
     "relevance": 2,
     "continent_n": "Europe",
-    "sub_region": "Southern Europe"
+    "sub_region": "Southern Europe",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "EUR"
+    ],
+    "border_country_n_arr": [
+      "Andorra",
+      "France",
+      "Gibraltar",
+      "Portugal",
+      "Morocco"
+    ]
   },
   {
     "demonym": "Sri Lankan",
-    "_loc": { "type": "Point", "coordinates": [81, 7] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        81,
+        7
+      ]
+    },
     "population": 20277597,
     "calling_c": "94",
     "cca3": "LKA",
@@ -3161,11 +6550,27 @@
     "capital_n": "Colombo",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Southern Asia"
+    "sub_region": "Southern Asia",
+    "language_n_arr": [
+      "Sinhala, Sinhalese",
+      "Tamil"
+    ],
+    "currency_c_arr": [
+      "LKR"
+    ],
+    "border_country_n_arr": [
+      "India"
+    ]
   },
   {
     "demonym": "Sudanese",
-    "_loc": { "type": "Point", "coordinates": [30, 15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        15
+      ]
+    },
     "population": 37964000,
     "calling_c": "249",
     "cca3": "SDN",
@@ -3176,11 +6581,33 @@
     "capital_n": "Khartoum",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Arabic",
+      "English"
+    ],
+    "currency_c_arr": [
+      "SDG"
+    ],
+    "border_country_n_arr": [
+      "Central African Republic",
+      "Chad",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Libya",
+      "South Sudan"
+    ]
   },
   {
     "demonym": "Surinamer",
-    "_loc": { "type": "Point", "coordinates": [-56, 4] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -56,
+        4
+      ]
+    },
     "population": 534189,
     "calling_c": "597",
     "cca3": "SUR",
@@ -3191,11 +6618,29 @@
     "capital_n": "Paramaribo",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Dutch"
+    ],
+    "currency_c_arr": [
+      "SRD"
+    ],
+    "border_country_n_arr": [
+      "Brazil",
+      "French Guiana",
+      "France",
+      "Guyana"
+    ]
   },
   {
     "demonym": "Norwegian",
-    "_loc": { "type": "Point", "coordinates": [20, 78] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        20,
+        78
+      ]
+    },
     "population": 2655,
     "calling_c": "4779",
     "cca3": "SJM",
@@ -3206,11 +6651,23 @@
     "capital_n": "Longyearbyen",
     "relevance": 0.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Norwegian"
+    ],
+    "currency_c_arr": [
+      "NOK"
+    ]
   },
   {
     "demonym": "Swazi",
-    "_loc": { "type": "Point", "coordinates": [31.5, -26.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        31.5,
+        -26.5
+      ]
+    },
     "population": 1250000,
     "calling_c": "268",
     "cca3": "SWZ",
@@ -3221,11 +6678,28 @@
     "capital_n": "Lobamba",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Southern Africa"
+    "sub_region": "Southern Africa",
+    "language_n_arr": [
+      "English",
+      "Swati"
+    ],
+    "currency_c_arr": [
+      "SZL"
+    ],
+    "border_country_n_arr": [
+      "Mozambique",
+      "South Africa"
+    ]
   },
   {
     "demonym": "Swedish",
-    "_loc": { "type": "Point", "coordinates": [15, 62] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        15,
+        62
+      ]
+    },
     "population": 9625444,
     "calling_c": "46",
     "cca3": "SWE",
@@ -3236,11 +6710,27 @@
     "capital_n": "Stockholm",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "Swedish"
+    ],
+    "currency_c_arr": [
+      "SEK"
+    ],
+    "border_country_n_arr": [
+      "Finland",
+      "Norway"
+    ]
   },
   {
     "demonym": "Swiss",
-    "_loc": { "type": "Point", "coordinates": [8, 47] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        8,
+        47
+      ]
+    },
     "population": 8085300,
     "calling_c": "41",
     "cca3": "CHE",
@@ -3251,11 +6741,32 @@
     "capital_n": "Bern",
     "relevance": 1.5,
     "continent_n": "Europe",
-    "sub_region": "Western Europe"
+    "sub_region": "Western Europe",
+    "language_n_arr": [
+      "German",
+      "French",
+      "Italian"
+    ],
+    "currency_c_arr": [
+      "CHF"
+    ],
+    "border_country_n_arr": [
+      "Austria",
+      "France",
+      "Italy",
+      "Liechtenstein",
+      "Germany"
+    ]
   },
   {
     "demonym": "Syrian",
-    "_loc": { "type": "Point", "coordinates": [38, 35] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        38,
+        35
+      ]
+    },
     "population": 21898000,
     "calling_c": "963",
     "cca3": "SYR",
@@ -3266,11 +6777,30 @@
     "capital_n": "Damascus",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "SYP"
+    ],
+    "border_country_n_arr": [
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Lebanon",
+      "Turkey"
+    ]
   },
   {
     "demonym": "Taiwanese",
-    "_loc": { "type": "Point", "coordinates": [121, 23.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        121,
+        23.5
+      ]
+    },
     "population": 23361147,
     "calling_c": "886",
     "cca3": "TWN",
@@ -3281,12 +6811,24 @@
     "capital_n": "Taipei",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Eastern Asia"
+    "sub_region": "Eastern Asia",
+    "language_n_arr": [
+      "Chinese"
+    ],
+    "currency_c_arr": [
+      "TWD"
+    ]
   },
   {
     "demonym": "Tadzhik",
-    "_loc": { "type": "Point", "coordinates": [71, 39] },
-    "population": 8e+06,
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        71,
+        39
+      ]
+    },
+    "population": 8000000,
     "calling_c": "992",
     "cca3": "TJK",
     "ccn3": "762",
@@ -3296,11 +6838,30 @@
     "capital_n": "Dushanbe",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Central Asia"
+    "sub_region": "Central Asia",
+    "language_n_arr": [
+      "Tajik",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "TJS"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "China",
+      "Kyrgyzstan",
+      "Uzbekistan"
+    ]
   },
   {
     "demonym": "Tanzanian",
-    "_loc": { "type": "Point", "coordinates": [35, -6] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        35,
+        -6
+      ]
+    },
     "population": 44928923,
     "calling_c": "255",
     "cca3": "TZA",
@@ -3311,11 +6872,34 @@
     "capital_n": "Dodoma",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "Swahili",
+      "English"
+    ],
+    "currency_c_arr": [
+      "TZS"
+    ],
+    "border_country_n_arr": [
+      "Burundi",
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Malawi",
+      "Mozambique",
+      "Rwanda",
+      "Uganda",
+      "Zambia"
+    ]
   },
   {
     "demonym": "Thai",
-    "_loc": { "type": "Point", "coordinates": [100, 15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        100,
+        15
+      ]
+    },
     "population": 65926261,
     "calling_c": "66",
     "cca3": "THA",
@@ -3326,11 +6910,26 @@
     "capital_n": "Bangkok",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "THB"
+    ],
+    "border_country_n_arr": [
+      "Myanmar",
+      "Cambodia",
+      "Laos",
+      "Malaysia"
+    ]
   },
   {
     "demonym": "East Timorese",
-    "_loc": { "type": "Point", "coordinates": [125.91666666, -8.83333333] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        125.91666666,
+        -8.83333333
+      ]
+    },
     "population": -1,
     "calling_c": "670",
     "cca3": "TLS",
@@ -3341,11 +6940,23 @@
     "capital_n": "Dili",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "currency_c_arr": [
+      "USD"
+    ],
+    "border_country_n_arr": [
+      "Indonesia"
+    ]
   },
   {
     "demonym": "Togolese",
-    "_loc": { "type": "Point", "coordinates": [1.16666666, 8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        1.16666666,
+        8
+      ]
+    },
     "population": 6191155,
     "calling_c": "228",
     "cca3": "TGO",
@@ -3356,11 +6967,28 @@
     "capital_n": "Lomé",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Western Africa"
+    "sub_region": "Western Africa",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XOF"
+    ],
+    "border_country_n_arr": [
+      "Benin",
+      "Burkina Faso",
+      "Ghana"
+    ]
   },
   {
     "demonym": "Tokelauan",
-    "_loc": { "type": "Point", "coordinates": [-172, -9] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -172,
+        -9
+      ]
+    },
     "population": 1411,
     "calling_c": "690",
     "cca3": "TKL",
@@ -3371,11 +6999,23 @@
     "capital_n": "Fakaofo",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "NZD"
+    ]
   },
   {
     "demonym": "Tongan",
-    "_loc": { "type": "Point", "coordinates": [-175, -20] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -175,
+        -20
+      ]
+    },
     "population": 103036,
     "calling_c": "676",
     "cca3": "TON",
@@ -3386,11 +7026,24 @@
     "capital_n": "Nuku‘alofa",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English",
+      "Tonga (Tonga Islands)"
+    ],
+    "currency_c_arr": [
+      "TOP"
+    ]
   },
   {
     "demonym": "Trinidadian",
-    "_loc": { "type": "Point", "coordinates": [-61, 11] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -61,
+        11
+      ]
+    },
     "population": 1328019,
     "calling_c": "1868",
     "cca3": "TTO",
@@ -3401,11 +7054,23 @@
     "capital_n": "Port of Spain",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "TTD"
+    ]
   },
   {
     "demonym": "Tunisian",
-    "_loc": { "type": "Point", "coordinates": [9, 34] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        9,
+        34
+      ]
+    },
     "population": 10833431,
     "calling_c": "216",
     "cca3": "TUN",
@@ -3416,11 +7081,28 @@
     "capital_n": "Tunis",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Arabic",
+      "French"
+    ],
+    "currency_c_arr": [
+      "TND"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Libya"
+    ]
   },
   {
     "demonym": "Turkish",
-    "_loc": { "type": "Point", "coordinates": [35, 39] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        35,
+        39
+      ]
+    },
     "population": 75627384,
     "calling_c": "90",
     "cca3": "TUR",
@@ -3431,11 +7113,33 @@
     "capital_n": "Ankara",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Turkish"
+    ],
+    "currency_c_arr": [
+      "TRY"
+    ],
+    "border_country_n_arr": [
+      "Armenia",
+      "Azerbaijan",
+      "Bulgaria",
+      "Georgia",
+      "Greece",
+      "Iran",
+      "Iraq",
+      "Syria"
+    ]
   },
   {
     "demonym": "Turkmen",
-    "_loc": { "type": "Point", "coordinates": [60, 40] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        60,
+        40
+      ]
+    },
     "population": 5240000,
     "calling_c": "993",
     "cca3": "TKM",
@@ -3446,11 +7150,30 @@
     "capital_n": "Ashgabat",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Central Asia"
+    "sub_region": "Central Asia",
+    "language_n_arr": [
+      "Dzongkha",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "TMT"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "Iran",
+      "Kazakhstan",
+      "Uzbekistan"
+    ]
   },
   {
     "demonym": "Turks and Caicos Islander",
-    "_loc": { "type": "Point", "coordinates": [-71.58333333, 21.75] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -71.58333333,
+        21.75
+      ]
+    },
     "population": 31458,
     "calling_c": "1649",
     "cca3": "TCA",
@@ -3461,11 +7184,23 @@
     "capital_n": "Cockburn Town",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Tuvaluan",
-    "_loc": { "type": "Point", "coordinates": [178, -8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        178,
+        -8
+      ]
+    },
     "population": 11323,
     "calling_c": "688",
     "cca3": "TUV",
@@ -3476,11 +7211,23 @@
     "capital_n": "Funafuti",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "AUD"
+    ]
   },
   {
     "demonym": "Ugandan",
-    "_loc": { "type": "Point", "coordinates": [32, 1] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        32,
+        1
+      ]
+    },
     "population": 35357000,
     "calling_c": "256",
     "cca3": "UGA",
@@ -3491,11 +7238,31 @@
     "capital_n": "Kampala",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English",
+      "Swahili"
+    ],
+    "currency_c_arr": [
+      "UGX"
+    ],
+    "border_country_n_arr": [
+      "Democratic Republic of the Congo",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Tanzania"
+    ]
   },
   {
     "demonym": "Ukrainian",
-    "_loc": { "type": "Point", "coordinates": [32, 49] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        32,
+        49
+      ]
+    },
     "population": 45461627,
     "calling_c": "380",
     "cca3": "UKR",
@@ -3506,11 +7273,32 @@
     "capital_n": "Kiev",
     "relevance": 0,
     "continent_n": "Europe",
-    "sub_region": "Eastern Europe"
+    "sub_region": "Eastern Europe",
+    "language_n_arr": [
+      "Ukrainian"
+    ],
+    "currency_c_arr": [
+      "UAH"
+    ],
+    "border_country_n_arr": [
+      "Belarus",
+      "Hungary",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Slovakia"
+    ]
   },
   {
     "demonym": "Emirian",
-    "_loc": { "type": "Point", "coordinates": [54, 24] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        54,
+        24
+      ]
+    },
     "population": 8264070,
     "calling_c": "971",
     "cca3": "ARE",
@@ -3521,11 +7309,27 @@
     "capital_n": "Abu Dhabi",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "AED"
+    ],
+    "border_country_n_arr": [
+      "Oman",
+      "Saudi Arabia"
+    ]
   },
   {
     "demonym": "British",
-    "_loc": { "type": "Point", "coordinates": [-2, 54] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -2,
+        54
+      ]
+    },
     "population": 63705000,
     "calling_c": "44",
     "cca3": "GBR",
@@ -3536,11 +7340,26 @@
     "capital_n": "London",
     "relevance": 2.5,
     "continent_n": "Europe",
-    "sub_region": "Northern Europe"
+    "sub_region": "Northern Europe",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "GBP"
+    ],
+    "border_country_n_arr": [
+      "Ireland"
+    ]
   },
   {
     "demonym": "American",
-    "_loc": { "type": "Point", "coordinates": [-97, 38] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -97,
+        38
+      ]
+    },
     "population": 317101000,
     "calling_c": "1",
     "cca3": "USA",
@@ -3551,7 +7370,17 @@
     "capital_n": "Washington, D.C.",
     "relevance": 3.5,
     "continent_n": "North America",
-    "sub_region": "Northern America"
+    "sub_region": "Northern America",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ],
+    "border_country_n_arr": [
+      "Canada",
+      "Mexico"
+    ]
   },
   {
     "demonym": "American",
@@ -3564,11 +7393,23 @@
     "name": "United States Minor Outlying Islands",
     "relevance": 0,
     "continent_n": "North America",
-    "sub_region": "Northern America"
+    "sub_region": "Northern America",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Virgin Islander",
-    "_loc": { "type": "Point", "coordinates": [-64.933333, 18.35] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -64.933333,
+        18.35
+      ]
+    },
     "population": 106405,
     "calling_c": "1340",
     "cca3": "VIR",
@@ -3579,11 +7420,23 @@
     "capital_n": "Charlotte Amalie",
     "relevance": 0.5,
     "continent_n": "North America",
-    "sub_region": "Caribbean"
+    "sub_region": "Caribbean",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "USD"
+    ]
   },
   {
     "demonym": "Uruguayan",
-    "_loc": { "type": "Point", "coordinates": [-56, -33] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -56,
+        -33
+      ]
+    },
     "population": 3286314,
     "calling_c": "598",
     "cca3": "URY",
@@ -3594,11 +7447,27 @@
     "capital_n": "Montevideo",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "UYU"
+    ],
+    "border_country_n_arr": [
+      "Argentina",
+      "Brazil"
+    ]
   },
   {
     "demonym": "Uzbekistani",
-    "_loc": { "type": "Point", "coordinates": [64, 41] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        64,
+        41
+      ]
+    },
     "population": 30183400,
     "calling_c": "998",
     "cca3": "UZB",
@@ -3609,11 +7478,31 @@
     "capital_n": "Tashkent",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Central Asia"
+    "sub_region": "Central Asia",
+    "language_n_arr": [
+      "Uzbek",
+      "Russian"
+    ],
+    "currency_c_arr": [
+      "UZS"
+    ],
+    "border_country_n_arr": [
+      "Afghanistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Turkmenistan"
+    ]
   },
   {
     "demonym": "Ni-Vanuatu",
-    "_loc": { "type": "Point", "coordinates": [167, -16] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        167,
+        -16
+      ]
+    },
     "population": 264652,
     "calling_c": "678",
     "cca3": "VUT",
@@ -3624,11 +7513,25 @@
     "capital_n": "Port Vila",
     "relevance": 0,
     "continent_n": "Oceania",
-    "sub_region": "Melanesia"
+    "sub_region": "Melanesia",
+    "language_n_arr": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "currency_c_arr": [
+      "VUV"
+    ]
   },
   {
     "demonym": "Venezuelan",
-    "_loc": { "type": "Point", "coordinates": [-66, 8] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -66,
+        8
+      ]
+    },
     "population": 28946101,
     "calling_c": "58",
     "cca3": "VEN",
@@ -3639,11 +7542,28 @@
     "capital_n": "Caracas",
     "relevance": 0,
     "continent_n": "South America",
-    "sub_region": "South America"
+    "sub_region": "South America",
+    "language_n_arr": [
+      "Spanish"
+    ],
+    "currency_c_arr": [
+      "VEF"
+    ],
+    "border_country_n_arr": [
+      "Brazil",
+      "Colombia",
+      "Guyana"
+    ]
   },
   {
     "demonym": "Vietnamese",
-    "_loc": { "type": "Point", "coordinates": [107.83333333, 16.16666666] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        107.83333333,
+        16.16666666
+      ]
+    },
     "population": 90388000,
     "calling_c": "84",
     "cca3": "VNM",
@@ -3654,11 +7574,28 @@
     "capital_n": "Hanoi",
     "relevance": 1.5,
     "continent_n": "Asia",
-    "sub_region": "South-Eastern Asia"
+    "sub_region": "South-Eastern Asia",
+    "language_n_arr": [
+      "Vietnamese"
+    ],
+    "currency_c_arr": [
+      "VND"
+    ],
+    "border_country_n_arr": [
+      "Cambodia",
+      "China",
+      "Laos"
+    ]
   },
   {
     "demonym": "Wallis and Futuna Islander",
-    "_loc": { "type": "Point", "coordinates": [-176.2, -13.3] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -176.2,
+        -13.3
+      ]
+    },
     "population": 13135,
     "calling_c": "681",
     "cca3": "WLF",
@@ -3669,11 +7606,23 @@
     "capital_n": "Mata-Utu",
     "relevance": 0.5,
     "continent_n": "Oceania",
-    "sub_region": "Polynesia"
+    "sub_region": "Polynesia",
+    "language_n_arr": [
+      "French"
+    ],
+    "currency_c_arr": [
+      "XPF"
+    ]
   },
   {
     "demonym": "Sahrawi",
-    "_loc": { "type": "Point", "coordinates": [-13, 24.5] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        -13,
+        24.5
+      ]
+    },
     "population": 567000,
     "calling_c": "212",
     "cca3": "ESH",
@@ -3684,11 +7633,31 @@
     "capital_n": "El Aaiún",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Northern Africa"
+    "sub_region": "Northern Africa",
+    "language_n_arr": [
+      "Spanish",
+      "French"
+    ],
+    "currency_c_arr": [
+      "MAD",
+      "DZD",
+      "MRO"
+    ],
+    "border_country_n_arr": [
+      "Algeria",
+      "Mauritania",
+      "Morocco"
+    ]
   },
   {
     "demonym": "Yemeni",
-    "_loc": { "type": "Point", "coordinates": [48, 15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        48,
+        15
+      ]
+    },
     "population": 24527000,
     "calling_c": "967",
     "cca3": "YEM",
@@ -3699,11 +7668,27 @@
     "capital_n": "Sana'a",
     "relevance": 0,
     "continent_n": "Asia",
-    "sub_region": "Western Asia"
+    "sub_region": "Western Asia",
+    "language_n_arr": [
+      "Arabic"
+    ],
+    "currency_c_arr": [
+      "YER"
+    ],
+    "border_country_n_arr": [
+      "Oman",
+      "Saudi Arabia"
+    ]
   },
   {
     "demonym": "Zambian",
-    "_loc": { "type": "Point", "coordinates": [30, -15] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        -15
+      ]
+    },
     "population": 13092666,
     "calling_c": "260",
     "cca3": "ZMB",
@@ -3714,11 +7699,33 @@
     "capital_n": "Lusaka",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English"
+    ],
+    "currency_c_arr": [
+      "ZMK"
+    ],
+    "border_country_n_arr": [
+      "Angola",
+      "Botswana",
+      "Democratic Republic of the Congo",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Tanzania",
+      "Zimbabwe"
+    ]
   },
   {
     "demonym": "Zimbabwean",
-    "_loc": { "type": "Point", "coordinates": [30, -20] },
+    "_loc": {
+      "type": "Point",
+      "coordinates": [
+        30,
+        -20
+      ]
+    },
     "population": 12973808,
     "calling_c": "263",
     "cca3": "ZWE",
@@ -3729,6 +7736,20 @@
     "capital_n": "Harare",
     "relevance": 0,
     "continent_n": "Africa",
-    "sub_region": "Eastern Africa"
+    "sub_region": "Eastern Africa",
+    "language_n_arr": [
+      "English",
+      "Shona",
+      "North Ndebele"
+    ],
+    "currency_c_arr": [
+      "ZWD"
+    ],
+    "border_country_n_arr": [
+      "Botswana",
+      "Mozambique",
+      "South Africa",
+      "Zambia"
+    ]
   }
 ]
