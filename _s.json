@@ -358,6 +358,12 @@
     "_s_keys": [
       "img_uuid",
       "img_link",
+      "location_id_arr",
+      "location_ty_n_arr",
+      "human_id_arr",
+      "company_id_arr",
+      "country_n_arr",
+      "city_n_arr",
       "_dt",
       "_usr"
     ]

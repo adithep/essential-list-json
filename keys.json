@@ -222,6 +222,7 @@
     "key_ty": "r_st",
     "key_s": "humans",
     "key_key": "human_id",
+    "key_arr": true,
     "key_dis": "Human Id"
   },
 
@@ -230,6 +231,7 @@
     "key_ty": "r_st",
     "key_s": "locations",
     "key_key": "location_id",
+    "key_arr": true,
     "key_dis": "Location Id"
   },
 
@@ -238,6 +240,7 @@
     "key_ty": "r_st",
     "key_s": "companies",
     "key_key": "company_id",
+    "key_arr": true,
     "key_dis": "Company Id"
   },
 
@@ -290,6 +293,7 @@
     "key_ty": "r_st",
     "key_s": "location_ty",
     "key_key": "location_ty_n",
+    "key_arr": true,
     "key_dis": "Location Type"
   },
 
@@ -510,6 +514,7 @@
     "key_ty": "r_st",
     "key_s": "countries",
     "key_key": "country_n",
+    "key_arr": true,
     "key_dis": "Country"
   },
 
@@ -518,6 +523,7 @@
     "key_ty": "r_st",
     "key_s": "cities",
     "key_key": "city_n",
+    "key_arr": true,
     "key_dis": "City",
     "key_big": true
   },
