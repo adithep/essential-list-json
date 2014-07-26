@@ -204,7 +204,7 @@
     "key_dis": "Personal Mobile"
   },
   {
-    "key_n": "first_n",
+    "key_n": "human_n.first",
     "key_ty": "_st",
     "key_dis": "First Name"
   },
@@ -333,7 +333,7 @@
     "key_dis": "Language"
   },
   {
-    "key_n": "last_n",
+    "key_n": "human_n.last",
     "key_ty": "_st",
     "key_dis": "Last Name"
   },
@@ -366,7 +366,7 @@
     "key_dis": "Location Type"
   },
   {
-    "key_n": "middle_n",
+    "key_n": "human_n.middle",
     "key_ty": "_st",
     "key_dis": "Middle Name"
   },
@@ -556,7 +556,7 @@
     "key_dis": "Tag Name"
   },
   {
-    "key_n": "title_n",
+    "key_n": "human_n.title",
     "key_r": true,
     "key_ty": "_st",
     "key_s": "titles",

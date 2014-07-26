@@ -305,6 +305,21 @@
   },
 
   {
+    "_s_n_for": "approaches",
+    "_s_n": "_s",
+    "json": [
+      {"main": "alpha-entity-json/approaches.json"}
+    ],
+    "_s_keys": [
+      "approach_n",
+      "img_uuid",
+      "approach_description",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "humans",
     "_s_n": "_s",
     "json": [
