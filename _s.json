@@ -4,7 +4,7 @@
     "_s_n_for": "_s",
     "_s_n": "_s",
     "json": [
-      {"main": "web-str-json/_s.json"}
+      {"_n": "main", "path": "essential-list-json/_s.json"}
     ],
     "_s_keys": [
       "_s_n_for",
@@ -20,7 +20,7 @@
     "_s_n_for": "keys",
     "_s_n": "_s",
     "json": [
-      {"main": "web-str-json/keys.json"}
+      {"_n": "main", "path": "essential-list-json/keys.json"}
     ],
     "_s_keys": [
       "key_n",
@@ -39,7 +39,7 @@
     "_s_n_for": "paths",
     "_s_n": "_s",
     "json": [
-      {"main": "web-str-json/paths.json"}
+      {"_n": "main", "path": "web-str-json/paths.json"}
     ],
     "_s_keys": [
       "path_n",
@@ -54,7 +54,7 @@
     "_s_n_for": "_spa",
     "_s_n": "_s",
     "json": [
-      {"main": "web-str-json/_spa.json"}
+      {"_n": "main", "path": "web-str-json/_spa.json"}
     ],
     "_s_keys": [
       "_spa",
@@ -69,7 +69,7 @@
     "_s_n_for": "classes",
     "_s_n": "_s",
     "json": [
-      {"main": "_s/classes.json"}
+      {"_n": "main", "path": "_s/classes.json"}
     ],
     "_s_keys": [
       "class_n",
@@ -82,7 +82,7 @@
     "_s_n_for": "input_forms",
     "_s_n": "_s",
     "json": [
-      {"main": "json/input_forms.json"}
+      {"_n": "main", "path": "essential-list-json/input_forms.json"}
     ],
     "_s_keys": [
       "input_form_n",
@@ -96,7 +96,7 @@
     "_s_n_for": "continents",
     "_s_n": "_s",
     "json": [
-      {"main": "json/continents.json"}
+      {"_n": "main", "path": "essential-list-json/continents.json"}
     ],
     "_s_keys": [
       "continent_n",
@@ -110,7 +110,7 @@
     "_s_n_for": "countries",
     "_s_n": "_s",
     "json": [
-      {"main": "json/countries.json"}
+      {"_n": "main", "path": "essential-list-json/countries.json"}
     ],
     "_s_keys": [
       "country_n",
@@ -137,7 +137,7 @@
     "_s_n_for": "cities",
     "_s_n": "_s",
     "json": [
-      {"main": "json/cities.json"}
+      {"_n": "main", "path": "essential-list-json/cities.json"}
     ],
     "_s_keys": [
       "city_n",
@@ -153,7 +153,7 @@
     "_s_n_for": "currencies",
     "_s_n": "_s",
     "json": [
-      {"main": "json/currencies.json"}
+      {"_n": "main", "path": "essential-list-json/currencies.json"}
     ],
     "_s_keys": [
       "currency_c",
@@ -172,7 +172,7 @@
     "_s_n_for": "languages",
     "_s_n": "_s",
     "json": [
-      {"main": "json/languages.json"}
+      {"_n": "main", "path": "essential-list-json/languages.json"}
     ],
     "_s_keys": [
       "language_n",
@@ -187,7 +187,7 @@
     "_s_n_for": "service_n",
     "_s_n": "_s",
     "json": [
-      {"main": "json/service_n.json"}
+      {"_n": "main", "path": "essential-list-json/service_n.json"}
     ],
     "_s_keys": [
       "service_n",
@@ -200,7 +200,7 @@
     "_s_n_for": "titles",
     "_s_n": "_s",
     "json": [
-      {"main": "json/titles.json"}
+      {"_n": "main", "path": "essential-list-json/titles.json"}
     ],
     "_s_keys": [
       "title_n",
@@ -213,7 +213,7 @@
     "_s_n_for": "services",
     "_s_n": "_s",
     "json": [
-      {"main": "json/services.json"}
+      {"_n": "main", "path": "alpha-entity-json/services.json"}
     ],
     "_s_keys": [
       "human_id",
@@ -231,7 +231,7 @@
     "_s_n_for": "emails",
     "_s_n": "_s",
     "json": [
-      {"main": "json/emails.json"}
+      {"_n": "main", "path": "alpha-entity-json/emails.json"}
     ],
     "_s_keys": [
       "_id",
@@ -244,7 +244,7 @@
     "_s_n_for": "mobiles",
     "_s_n": "_s",
     "json": [
-      {"main": "json/mobiles.json"}
+      {"_n": "main", "path": "alpha-entity-json/mobiles.json"}
     ],
     "_s_keys": [
       "_id",
@@ -257,7 +257,7 @@
     "_s_n_for": "img",
     "_s_n": "_s",
     "json": [
-      {"main": "essential-list-json/img.json"}
+      {"_n": "main", "path": "essential-list-json/img.json"}
     ],
     "_s_keys": [
       "img_uuid",
@@ -277,7 +277,7 @@
     "_s_n_for": "location_ty",
     "_s_n": "_s",
     "json": [
-      {"main": "essential-list-json/location_ty.json"}
+      {"_n": "main", "path": "essential-list-json/location_ty.json"}
     ],
     "_s_keys": [
       "location_ty_n",
@@ -290,7 +290,7 @@
     "_s_n_for": "locations",
     "_s_n": "_s",
     "json": [
-      {"main": "essential-list-json/locations.json"}
+      {"_n": "main", "path": "essential-list-json/locations.json"}
     ],
     "_s_keys": [
       "_id",
@@ -308,7 +308,7 @@
     "_s_n_for": "approaches",
     "_s_n": "_s",
     "json": [
-      {"main": "alpha-entity-json/approaches.json"}
+      {"_n": "main", "path": "alpha-entity-json/approaches.json"}
     ],
     "_s_keys": [
       "approach_n",
@@ -323,8 +323,8 @@
     "_s_n_for": "humans",
     "_s_n": "_s",
     "json": [
-      {"core_team": "alpha-entity-json/core_team.json"},
-      {"main": "alpha-entity-json/humans.json"}
+      {"_n": "core_team", "path": "alpha-entity-json/core_team.json"},
+      {"_n": "main", "path": "alpha-entity-json/humans.json"}
     ],
     "_s_keys": [
       "_id",
@@ -350,8 +350,8 @@
     "_s_n_for": "companies",
     "_s_n": "_s",
     "json": [
-      {"new_company": "alpha-entity-json/new_company.json"},
-      {"main": "alpha-entity-json/companies.json"}
+      {"_n": "new_company", "path": "alpha-entity-json/new_company.json"},
+      {"_n": "main", "path": "alpha-entity-json/companies.json"}
     ],
     "_s_keys": [
       "_id",
@@ -374,7 +374,7 @@
     "_s_n_for": "translations",
     "_s_n": "_s",
     "json": [
-      {"main": "json/translations.json"}
+      {"_n": "main", "path": "essential-list-json/translations.json"}
     ],
     "_s_keys": [
       "_s_tr",
@@ -390,7 +390,9 @@
   {
     "_s_n_for": "_alt_spellings",
     "_s_n": "_s",
-    "json": "json/_alt_spellings.json",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/alt-spellings.json"}
+    ],
     "_s_keys": [
       "_s_alt_spellings",
       "key_alt_spellings",
@@ -405,11 +407,12 @@
     "_s_n_for": "_tri",
     "_s_n": "_s",
     "json": [
-      {"_tri_btn": "web-str-json/_tri_btn.json"},
-      {"_tri_input": "web-str-json/_tri_input.json"},
-      {"_tri_media": "web-str-json/_tri_media.json"},
-      {"_tri_banners": "web-str-json/_tri_banners.json"},
-      {"_tri": "web-str-json/_tri.json"}
+      {"_n": "_tri_btn", "path": "web-str-json/_tri_btn.json"},
+      {"_n": "_tri_input", "path": "web-str-json/_tri_input.json"},
+      {"_n": "_tri_media", "path": "web-str-json/_tri_media.json"},
+      {"_n": "_tri_banners", "path": "web-str-json/_tri_banners.json"},
+      {"_n": "_tri_s_docs", "path": "web-str-json/_tri_s_docs.json"},
+      {"_n": "_tri", "path": "web-str-json/_tri.json"}
     ],
     "_s_keys": [
       "_tri_n",
