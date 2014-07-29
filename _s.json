@@ -7,8 +7,9 @@
       {"_n": "main", "path": "essential-list-json/_s.json"}
     ],
     "_s_keys": [
-      "_s_n_for",
+      "_id",
       "_s_n",
+      "_s_n_for",
       "json",
       "_s_keys",
       "_dt",
@@ -23,6 +24,8 @@
       {"_n": "main", "path": "essential-list-json/keys.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "key_n",
       "key_ty",
       "key_s",
@@ -42,6 +45,8 @@
       {"_n": "main", "path": "web-str-json/paths.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "path_n",
       "path_tem",
       "path_gr",
@@ -57,6 +62,8 @@
       {"_n": "main", "path": "web-str-json/_spa.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "_spa",
       "_spa_tem",
       "_spa_gr",
@@ -72,6 +79,8 @@
       {"_n": "main", "path": "_s/classes.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "class_n",
       "_dt",
       "_usr"
@@ -85,6 +94,8 @@
       {"_n": "main", "path": "essential-list-json/input_forms.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "input_form_n",
       "href",
       "_dt",
@@ -99,6 +110,8 @@
       {"_n": "main", "path": "essential-list-json/continents.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "continent_n",
       "continent_c",
       "_dt",
@@ -113,6 +126,8 @@
       {"_n": "main", "path": "essential-list-json/countries.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "country_n",
       "demonym",
       "_loc",
@@ -140,6 +155,8 @@
       {"_n": "main", "path": "essential-list-json/cities.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "city_n",
       "country_n",
       "_loc",
@@ -156,6 +173,8 @@
       {"_n": "main", "path": "essential-list-json/currencies.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "currency_c",
       "usd_exchange_rate",
       "country_n_arr",
@@ -175,6 +194,8 @@
       {"_n": "main", "path": "essential-list-json/languages.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "language_n",
       "language_c",
       "_nt_language_n",
@@ -190,6 +211,8 @@
       {"_n": "main", "path": "essential-list-json/service_n.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "service_n",
       "_dt",
       "_usr"
@@ -203,6 +226,8 @@
       {"_n": "main", "path": "essential-list-json/titles.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "title_n",
       "_dt",
       "_usr"
@@ -216,6 +241,8 @@
       {"_n": "main", "path": "alpha-entity-json/services.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "human_id",
       "company_id",
       "service_n",
@@ -235,6 +262,7 @@
     ],
     "_s_keys": [
       "_id",
+      "_s_n",
       "_dt",
       "_usr"
     ]
@@ -248,6 +276,7 @@
     ],
     "_s_keys": [
       "_id",
+      "_s_n",
       "_dt",
       "_usr"
     ]
@@ -260,6 +289,8 @@
       {"_n": "main", "path": "essential-list-json/img.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "img_uuid",
       "img_link",
       "location_id_arr",
@@ -280,6 +311,8 @@
       {"_n": "main", "path": "essential-list-json/location_ty.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "location_ty_n",
       "_dt",
       "_usr"
@@ -294,6 +327,7 @@
     ],
     "_s_keys": [
       "_id",
+      "_s_n",
       "location_n",
       "_loc",
       "location_ty_n",
@@ -311,6 +345,8 @@
       {"_n": "main", "path": "alpha-entity-json/approaches.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "approach_n",
       "img_uuid",
       "approach_description",
@@ -328,6 +364,7 @@
     ],
     "_s_keys": [
       "_id",
+      "_s_n",
       "human_n.title",
       "human_n.first",
       "human_n.middle",
@@ -355,6 +392,7 @@
     ],
     "_s_keys": [
       "_id",
+      "_s_n",
       "company_n",
       "_dt_registered",
       "email.main_arr",
@@ -377,6 +415,8 @@
       {"_n": "main", "path": "essential-list-json/translations.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "_s_tr",
       "key_tr",
       "_st",
@@ -394,6 +434,8 @@
       {"_n": "main", "path": "essential-list-json/alt-spellings.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "_s_alt_spellings",
       "key_alt_spellings",
       "_st",
@@ -415,6 +457,8 @@
       {"_n": "_tri", "path": "web-str-json/_tri.json"}
     ],
     "_s_keys": [
+      "_id",
+      "_s_n",
       "_tri_n",
       "_tri_gr",
       "_tri_dis",
