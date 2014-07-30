@@ -354,6 +354,7 @@
   {
     "key_n": "location_n",
     "key_ty": "_st",
+    "jey_arr": true,
     "key_dis": "Location Name"
   },
   {
@@ -437,17 +438,23 @@
     "key_dis": "Trigger Submit"
   },
   {
-    "key_n": "path_gr",
+    "key_n": "path_spa",
     "key_r": true,
-    "key_ty": "gr_st",
-    "key_s": "_tri",
-    "key_key": "_tri_grs",
+    "key_ty": "r_st",
+    "key_s": "_spa",
+    "key_key": "_spa",
+    "key_arr": true,
     "key_dis": "Space for path"
   },
   {
     "key_n": "path_n",
     "key_ty": "_st",
     "key_dis": "Path Name"
+  },
+  {
+    "key_n": "path_dis",
+    "key_ty": "_st",
+    "key_dis": "Path Display"
   },
   {
     "key_n": "path_tem",
@@ -525,6 +532,7 @@
     "key_ty": "gr_st",
     "key_s": "_tri",
     "key_key": "_tri_grs",
+    "key_arr": true,
     "key_dis": "Groups for path"
   },
   {

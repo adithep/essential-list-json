@@ -49,7 +49,8 @@
       "_s_n",
       "path_n",
       "path_tem",
-      "path_gr",
+      "path_spa_arr",
+      "path_dis",
       "_dt",
       "_usr"
     ]
@@ -66,7 +67,7 @@
       "_s_n",
       "_spa",
       "_spa_tem",
-      "_spa_gr",
+      "_spa_gr_arr",
       "_dt",
       "_usr"
     ]
@@ -294,6 +295,7 @@
       "img_uuid",
       "img_link",
       "location_id_arr",
+      "location_n_arr",
       "location_ty_n_arr",
       "human_id_arr",
       "company_id_arr",
