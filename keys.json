@@ -202,23 +202,25 @@
     "key_dis": "Display Type"
   },
   {
-    "key_n": "entity_ad.main.city_n",
+    "key_n": "_adr_main_city_n",
     "key_r": true,
     "key_ty": "_st",
     "key_s": "cities",
     "key_key": "city_n",
+    "key_slave": ["_adr_main_country_n"],
     "key_dis": "Mobile"
   },
   {
-    "key_n": "entity_ad.main.country_n",
+    "key_n": "_adr_main_country_n",
     "key_r": true,
     "key_ty": "_st",
     "key_s": "countries",
     "key_key": "country_n",
+    "key_slave": ["_adr_main_city_n"],
     "key_dis": "Mobile"
   },
   {
-    "key_n": "mobile.main",
+    "key_n": "mobile_main",
     "key_r": true,
     "key_ty": "phone",
     "key_s": "mobiles",
@@ -227,7 +229,7 @@
     "key_dis": "Mobile"
   },
   {
-    "key_n": "mobile.work",
+    "key_n": "mobile_work",
     "key_r": true,
     "key_ty": "phone",
     "key_s": "mobiles",
@@ -236,7 +238,7 @@
     "key_dis": "Work Mobile"
   },
   {
-    "key_n": "mobile.personal",
+    "key_n": "mobile_personal",
     "key_r": true,
     "key_ty": "phone",
     "key_s": "mobiles",
@@ -245,7 +247,7 @@
     "key_dis": "Personal Mobile"
   },
   {
-    "key_n": "human_n.first",
+    "key_n": "first_n",
     "key_ty": "_st",
     "key_dis": "First Name"
   },
@@ -374,7 +376,7 @@
     "key_dis": "Language"
   },
   {
-    "key_n": "human_n.last",
+    "key_n": "last_n",
     "key_ty": "_st",
     "key_dis": "Last Name"
   },
@@ -408,12 +410,12 @@
     "key_dis": "Location Type"
   },
   {
-    "key_n": "human_n.middle",
+    "key_n": "middle_n",
     "key_ty": "_st",
     "key_dis": "Middle Name"
   },
   {
-    "key_n": "email.main",
+    "key_n": "email_main",
     "key_r": true,
     "key_ty": "email",
     "key_s": "emails",
@@ -422,7 +424,7 @@
     "key_dis": "Email"
   },
   {
-    "key_n": "email.work",
+    "key_n": "email_work",
     "key_r": true,
     "key_ty": "email",
     "key_s": "emails",
@@ -431,7 +433,7 @@
     "key_dis": "Email"
   },
   {
-    "key_n": "email.personal",
+    "key_n": "email_personal",
     "key_r": true,
     "key_ty": "email",
     "key_s": "emails",
@@ -599,6 +601,15 @@
     "key_dis": "Groups for path"
   },
   {
+    "key_n": "_tri_grs",
+    "key_r": true,
+    "key_ty": "gr_st",
+    "key_s": "_tri",
+    "key_key": "_tri_grs",
+    "key_arr": true,
+    "key_dis": "Groups for path"
+  },
+  {
     "key_n": "_spa_tem",
     "key_ty": "_st",
     "key_dis": "Space Template"
@@ -635,7 +646,7 @@
     "key_dis": "Schema Name"
   },
   {
-    "key_n": "human_n.title",
+    "key_n": "title_n",
     "key_r": true,
     "key_ty": "_st",
     "key_s": "titles",
@@ -732,5 +743,50 @@
     "key_n": "_v_2",
     "key_ty": "_st",
     "key_dis": "Value 2"
+  },
+  {
+    "key_n": "div_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Div attribute"
+  },
+  {
+    "key_n": "div_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Div attribute"
+  },
+  {
+    "key_n": "input_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Input attribute"
+  },
+  {
+    "key_n": "select_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Select attribute"
+  },
+  {
+    "key_n": "option_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Option attribute"
+  },
+  {
+    "key_n": "nav_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Nav attribute"
+  },
+  {
+    "key_n": "form_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Form attribute"
+  },
+  {
+    "key_n": "submit_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Submit attribute"
+  },
+  {
+    "key_n": "_btn_attrs",
+    "key_ty": "attrs",
+    "key_dis": "Button attribute"
   }
 ]
