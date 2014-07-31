@@ -5,6 +5,19 @@
     "key_dis": "Alternate Spelling"
   },
   {
+    "key_n": "approach_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "approaches",
+    "key_key": "approach_n",
+    "key_dis": "Approach Name"
+  },
+  {
+    "key_n": "approach_description",
+    "key_ty": "_st",
+    "key_dis": "Approach Description"
+  },
+  {
     "key_n": "border_country_n",
     "key_r": true,
     "key_ty": "_st",
@@ -159,6 +172,34 @@
     "key_n": "_eid",
     "key_ty": "oid",
     "key_dis": "ID"
+  },
+  {
+    "key_n": "_tri_dis_ty",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "dis_ty",
+    "key_key": "dis_ty_n",
+    "key_dis": "Display Type"
+  },
+  {
+    "key_n": "_tri_ty",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_dis": "Trigger Type"
+  },
+  {
+    "key_n": "_tri_available",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_dis": "Trigger Avaliable"
+  },
+  {
+    "key_n": "dis_ty_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "dis_ty",
+    "key_key": "dis_ty_n",
+    "key_dis": "Display Type"
   },
   {
     "key_n": "entity_ad.main.city_n",
@@ -354,7 +395,7 @@
   {
     "key_n": "location_n",
     "key_ty": "_st",
-    "jey_arr": true,
+    "key_arr": true,
     "key_dis": "Location Name"
   },
   {
@@ -430,6 +471,14 @@
     "key_dis": "Trigger Select"
   },
   {
+    "key_n": "on_drag",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_tri",
+    "key_key": "_tri_gr",
+    "key_dis": "Trigger Select"
+  },
+  {
     "key_n": "on_submit",
     "key_r": true,
     "key_ty": "_st",
@@ -440,11 +489,25 @@
   {
     "key_n": "path_spa",
     "key_r": true,
-    "key_ty": "r_st",
+    "key_ty": "_st",
     "key_s": "_spa",
     "key_key": "_spa",
     "key_arr": true,
     "key_dis": "Space for path"
+  },
+  {
+    "key_n": "_tri_dis_key",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "keys",
+    "key_key": "key_n",
+    "key_arr": true,
+    "key_dis": "Key"
+  },
+  {
+    "key_n": "_tri_s_n",
+    "key_ty": "_st",
+    "key_dis": "Trigger Schema"
   },
   {
     "key_n": "path_n",
@@ -562,6 +625,14 @@
     "key_s": "tags",
     "key_key": "tag_n",
     "key_dis": "Tag Name"
+  },
+  {
+    "key_n": "_s_n",
+    "key_r": true,
+    "key_ty": "_st",
+    "key_s": "_s",
+    "key_key": "_s_n_for",
+    "key_dis": "Schema Name"
   },
   {
     "key_n": "human_n.title",

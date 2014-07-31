@@ -448,6 +448,21 @@
   },
 
   {
+    "_s_n_for": "dis_ty",
+    "_s_n": "_s",
+    "json": [
+      {"_n": "main", "path": "essential-list-json/dis_ty.json"}
+    ],
+    "_s_keys": [
+      "_id",
+      "_s_n",
+      "dis_ty_n",
+      "_dt",
+      "_usr"
+    ]
+  },
+
+  {
     "_s_n_for": "_tri",
     "_s_n": "_s",
     "json": [
@@ -464,17 +479,23 @@
       "_tri_n",
       "_tri_gr",
       "_tri_dis",
+      "_tri_dis_ty",
+      "_tri_ty",
       "sort",
       "_tri_starting",
       "form_collection",
       "on_submit",
       "on_click",
+      "on_drag",
+      "_tri_s_n",
+      "_tri_dis_key_arr",
       "on_select",
       "class_n",
       "_tri_select_key",
       "_tri_select_key_from",
       "_tri_select_tri",
       "_tri_limit_key",
+      "_tri_available",
       "_dt",
       "_usr"
     ]
